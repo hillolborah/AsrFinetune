@@ -1,0 +1,1657 @@
+filename,speaker,severity,ground_truth,prediction
+f09_06_Chiamata.wav,f09,1,chiamata,chiamata
+f09_06_Cella.wav,f09,1,cella,sezna.
+f09_06_Quattro.wav,f09,1,quattro,quattro quattro quattro quattro quattro quattro quattro quattro quattro quattro quattro quattro quattro quattro quattro quattro quattro quattro quattro quattro
+f09_06_Nuovo_contatto.wav,f09,1,nuovo contatto,nuovo contatto.
+f09_06_Chiudi_applicazione.wav,f09,1,chiudi applicazione,chiudi apropa seo.
+f09_06_Indietro.wav,f09,1,indietro,indietro
+f09_06_Vai_alla_pagina_principale.wav,f09,1,vai alla pagina principale,vai repetena principala.
+f09_06_Scorri_verso_il_basso.wav,f09,1,scorri verso il basso,scorri во сапа.
+f09_06_Termina_chiamata.wav,f09,1,termina chiamata,termina chiamata
+f09_06_Apri_rubrica_3.wav,f09,1,apri rubrica 3,apri rubrica
+f09_06_Cancella_contatto.wav,f09,1,cancella contatto,cancella contatto.
+f09_06_Si.wav,f09,1,si,si
+f09_06_Bue.wav,f09,1,bue,bue
+f09_06_Tra.wav,f09,1,tra,ta ta
+f09_06_Seleziona.wav,f09,1,seleziona,seleziona.
+f09_06_Tastiera.wav,f09,1,tastiera,tastira.
+f09_06_Nove.wav,f09,1,nove,nove.
+f09_06_Vai_alla_tastiera.wav,f09,1,vai alla tastiera,vajro tihko.
+f09_06_Attiva_vivavoce.wav,f09,1,attiva vivavoce,attiva vivavoce.
+f09_06_Apri.wav,f09,1,apri,apri
+f09_06_Vivavoce.wav,f09,1,vivavoce,vivavoj trusk.
+f09_06_Zelo.wav,f09,1,zelo,zero.
+f09_06_Chiudi_rubrica.wav,f09,1,chiudi rubrica,chiudi rubrica
+f09_06_Vai_nel_registro_chiamate.wav,f09,1,vai nel registro chiamate,vai nelijude semate
+f09_06_Scesi.wav,f09,1,scesi,sastavite
+f09_06_Rubrica.wav,f09,1,rubrica,rubrica
+f09_06_Rimuovi.wav,f09,1,rimuovi,rimuovi
+f09_06_Cancella.wav,f09,1,cancella,cancella
+f09_06_Disattiva_vivavoce.wav,f09,1,disattiva vivavoce,zestiva vivavoce
+f09_06_Chiama_ultimo_numero.wav,f09,1,chiama ultimo numero,chiama ultimo numero 2
+f09_06_Uno.wav,f09,1,uno,uno.uno.uno.uno.uno.uno.uno.uno.uno.uno.uno.uno.uno.uno.uno.uno.uno.uno.uno.uno.uno.uno.uno.uno.uno.uno.uno.uno.uno.uno.
+f09_06_Sei.wav,f09,1,sei,sej.
+f09_06_Nave.wav,f09,1,nave,no
+f09_06_Raggiungi.wav,f09,1,raggiungi,se odcunde
+f09_06_Apri_rubrica_2.wav,f09,1,apri rubrica 2,apri rubrica 1
+f09_06_No.wav,f09,1,no,no.
+f09_06_Cinque.wav,f09,1,cinque,cinqueue
+f09_06_Mali.wav,f09,1,mali,mali.
+f09_06_Sopra.wav,f09,1,sopra,sopra
+f09_06_Sette.wav,f09,1,sette,sette.
+f09_06_Esci_da_rubrica.wav,f09,1,esci da rubrica,esvita rubrica
+f09_06_Aggiungi.wav,f09,1,aggiungi,a cunque se prelajte.
+f09_06_Terminare.wav,f09,1,terminare,terminare
+f09_06_Scorri_verso_l_alto.wav,f09,1,scorri verso l alto,scorri verso lato
+f09_06_Chiama_emergenza.wav,f09,1,chiama emergenza,chiama emergenza
+f09_06_Apri_rubrica_1.wav,f09,1,apri rubrica 1,apri rubrica
+f09_06_Chiudi.wav,f09,1,chiudi,chiudi
+f09_06_Chiama.wav,f09,1,chiama,yeah.
+f09_06_Deseleziona.wav,f09,1,deseleziona,destresnice.se
+f09_06_Muto.wav,f09,1,muto,муста
+f09_06_Sezione.wav,f09,1,sezione,sezione.sezione.sezione.sezione.sezione.sezione.sezione.sezione.sezione.sezione.sezione.sezione.sezione.sezione.sezione.sezione.sezione.sezione.sezione.sezione.
+f09_06_Otto.wav,f09,1,otto,otto.
+f09_06_Vai_nella_rubrica.wav,f09,1,vai nella rubrica,vajna rubrica
+f09_06_Richiama.wav,f09,1,richiama,richiama
+f09_06_Cancella_tutto.wav,f09,1,cancella tutto,in šelj.
+f09_06_Aggiungi_ai_preferiti.wav,f09,1,aggiungi ai preferiti,a cunete per sezite.
+f09_06_Vai_nei_preferiti.wav,f09,1,vai nei preferiti,vai nei preferiti
+f09_06_Tre.wav,f09,1,tre,tača.
+f09_06_Top.wav,f09,1,top,no.
+f09_06_Sotto.wav,f09,1,sotto,sopta
+f09_06_Sali.wav,f09,1,sali,sali
+f09_06_Zero.wav,f09,1,zero,zero
+f09_06_Due.wav,f09,1,due,due.
+f09_06_Muovi.wav,f09,1,muovi,muovi
+f09_06_Stop.wav,f09,1,stop,stop
+f09_06_Fai_una_telefonata.wav,f09,1,fai una telefonata,kaj una telefonata.
+f09_06_Preferiti.wav,f09,1,preferiti,preferite
+f09_06_Scendi.wav,f09,1,scendi,scendi.scendi.scendi.scendi.scendi.scendi.scendi.scendi.scendi.scendi.scendi.scendi.scendi.scendi.scendi.scendi.scendi.scendi.scendi.scendi.
+f09_06_Salva.wav,f09,1,salva,sada
+f09_01_Sopra.wav,f09,1,sopra,sopra
+f09_01_Cancella.wav,f09,1,cancella,conce
+f09_01_Sette.wav,f09,1,sette,sette
+f09_01_Scorri_verso_l_alto.wav,f09,1,scorri verso l alto,scorri verso l alto
+f09_01_Zero.wav,f09,1,zero,sette
+f09_01_Seleziona.wav,f09,1,seleziona,tastierselezione 2
+f09_01_Apri_rubrica_1.wav,f09,1,apri rubrica 1,apri rubrica
+f09_01_Stop.wav,f09,1,stop,stop.
+f09_01_Cinque.wav,f09,1,cinque,čudnika
+f09_01_Vai_nella_rubrica.wav,f09,1,vai nella rubrica,vai nella rubrica
+f09_01_Vivavoce.wav,f09,1,vivavoce,vivavoj
+f09_01_Sali.wav,f09,1,sali,sali
+f09_01_Bue.wav,f09,1,bue,bue
+f09_01_Tra.wav,f09,1,tra,trage
+f09_01_Cancella_tutto.wav,f09,1,cancella tutto,cancella tutto.
+f09_01_Attiva_vivavoce.wav,f09,1,attiva vivavoce,attiva vivavoce
+f09_01_Aggiungi_ai_preferiti.wav,f09,1,aggiungi ai preferiti,aggiungi ai preferiti.
+f09_01_Sezione.wav,f09,1,sezione,seziva
+f09_01_Vai_nel_registro_chiamate.wav,f09,1,vai nel registro chiamate,vajno u registru suki matke.
+f09_01_Muto.wav,f09,1,muto,мотта
+f09_01_Chiama_emergenza.wav,f09,1,chiama emergenza,chiama emergenza
+f09_01_Vai_alla_pagina_principale.wav,f09,1,vai alla pagina principale,vai alla pagina principale.
+f09_01_Otto.wav,f09,1,otto,otto.
+f09_01_Raggiungi.wav,f09,1,raggiungi,se trunjete.
+f09_01_Tastiera.wav,f09,1,tastiera,tastiera 2
+f09_01_Sotto.wav,f09,1,sotto,sette.
+f09_01_Deseleziona.wav,f09,1,deseleziona,desele se una.
+f09_01_Vai_nei_preferiti.wav,f09,1,vai nei preferiti,vai nepreverite.
+f09_01_Chiamata.wav,f09,1,chiamata,chiama.
+f09_01_Fai_una_telefonata.wav,f09,1,fai una telefonata,fai una telefonata.
+f09_01_Muovi.wav,f09,1,muovi,mopet
+f09_01_Uno.wav,f09,1,uno,uno.uno.uno.uno.uno.uno.uno.uno.uno.uno.uno.uno.uno.uno.uno.uno.uno.uno.uno.uno.uno.uno.uno.uno.uno.uno.uno.uno.uno.uno.
+f09_01_Mali.wav,f09,1,mali,ma
+f09_01_Sei.wav,f09,1,sei,sei
+f09_01_Indietro.wav,f09,1,indietro,in gre.
+f09_01_Salva.wav,f09,1,salva,sali
+f09_01_Nave.wav,f09,1,nave,nave
+f09_01_Nuovo_contatto.wav,f09,1,nuovo contatto,nuovo contatto
+f09_01_Quattro.wav,f09,1,quattro,quattro.
+f09_01_Si.wav,f09,1,si,smojte
+f09_01_Cella.wav,f09,1,cella,cella.
+f09_01_Chiudi_applicazione.wav,f09,1,chiudi applicazione,chi u repukasionu.
+f09_01_Terminare.wav,f09,1,terminare,terminare
+f09_01_Scendi.wav,f09,1,scendi,scendi.
+f09_01_Apri_rubrica_3.wav,f09,1,apri rubrica 3,apri rubrica 2. sve sve sve sve sve sve sve sve sve sve sve sve sve sve sve sve sve sve sve sve sve sve sve sve sve sve sve
+f09_01_Apri.wav,f09,1,apri,apri
+f09_01_Zelo.wav,f09,1,zelo,zero.zero.zero.zero.zero.zero.zero.zero.zero.zero.zero.zero.zero.zero.zero.zero.zero.zero.zero.zero.zero.zero.zero.zero.zero.zero.zero.zero.zero. zero.
+f09_01_Cancella_contatto.wav,f09,1,cancella contatto,cancella contatto.
+f09_01_Chiudi_rubrica.wav,f09,1,chiudi rubrica,chiudi rubrica.
+f09_01_Nove.wav,f09,1,nove,no
+f09_01_Tre.wav,f09,1,tre,tave
+f09_01_Preferiti.wav,f09,1,preferiti,preferiti
+f09_01_Top.wav,f09,1,top,stop.stop.stop.stop.stop.stop.stop.stop.stop.stop.stop.stop.stop.stop.stop.stop.stop.stop.stop.stop.stop.stop.stop.stop.stop.stop.stop.stop.stop.stop.
+f09_01_Rimuovi.wav,f09,1,rimuovi,rimavljenja
+f09_01_Rubrica.wav,f09,1,rubrica,choppy.
+f09_01_No.wav,f09,1,no,no
+f09_01_Vai_alla_tastiera.wav,f09,1,vai alla tastiera,vai na tistice
+f09_01_Scesi.wav,f09,1,scesi,sette sette sette sette sette sette sette sette sette sette sette sette sette sette sette sette sette sette sette sette sette sette sette sette sette sette sette sette sette sette
+f09_01_Richiama.wav,f09,1,richiama,richiama.
+f09_01_Esci_da_rubrica.wav,f09,1,esci da rubrica,esci per ruhold
+f09_01_Disattiva_vivavoce.wav,f09,1,disattiva vivavoce,disattiva di sa uvolte
+f09_01_Due.wav,f09,1,due,su
+f09_01_Scorri_verso_il_basso.wav,f09,1,scorri verso il basso,scorri verso il basso
+f09_01_Aggiungi.wav,f09,1,aggiungi,aggiungi.
+f09_01_Apri_rubrica_2.wav,f09,1,apri rubrica 2,apri rubrica
+f09_01_Chiama.wav,f09,1,chiama,chiama.
+f09_01_Chiama_ultimo_numero.wav,f09,1,chiama ultimo numero,chiama ultimo numero 1
+f09_01_Chiudi.wav,f09,1,chiudi,chiudi.
+f09_01_Termina_chiamata.wav,f09,1,termina chiamata,termina chiamata
+f09_05_Chiudi_applicazione.wav,f09,1,chiudi applicazione,c'eviens pour le persécutif.
+f09_05_Vai_nella_rubrica.wav,f09,1,vai nella rubrica,vai nella rubrica.
+f09_05_Otto.wav,f09,1,otto,ottoottoottoottoottoottoottoottoottoottoottoottoottoottoottoottoottoottoottoottoottoottoottoottoottoottoottoottoottoottoottoottoottoottoottoottoottoottoottoottoottoottoottoottoottoottoottoottoottoottoottoottoottoottoottoottoottoottoottootto
+f09_05_Richiama.wav,f09,1,richiama,richiama.
+f09_05_Muto.wav,f09,1,muto,muto
+f09_05_Apri_rubrica_3.wav,f09,1,apri rubrica 3,apri rubika.
+f09_05_Sotto.wav,f09,1,sotto,sotto
+f09_05_Aggiungi.wav,f09,1,aggiungi,aggiungi all.
+f09_05_No.wav,f09,1,no,no
+f09_05_Terminare.wav,f09,1,terminare,terminare contatto contatto contatto contatto contatto contatto contatto contatto contatto contatto contatto contatto contatto contatto contatto contatto contatto contatto contatto contatto contatto contatto contatto contatto contatto contatto contatto contatto contatto
+f09_05_Disattiva_vivavoce.wav,f09,1,disattiva vivavoce,disattiva vivavoce.
+f09_05_Muovi.wav,f09,1,muovi,muovi
+f09_05_Scendi.wav,f09,1,scendi,scendi.scendi.scendi.scendi.scendi.scendi.scendi.scendi.scendi.scendi.scendi.scendi.scendi.scendi.scendi.scendi.scendi.scendi.scendi.scendi.
+f09_05_Nuovo_contatto.wav,f09,1,nuovo contatto,nuovo contatto
+f09_05_Deseleziona.wav,f09,1,deseleziona,sezionare
+f09_05_Mali.wav,f09,1,mali,mali
+f09_05_Salva.wav,f09,1,salva,salva
+f09_05_Preferiti.wav,f09,1,preferiti,preferiti
+f09_05_Attiva_vivavoce.wav,f09,1,attiva vivavoce,attiva vivavoce.
+f09_05_Sopra.wav,f09,1,sopra,sopra.
+f09_05_Apri_rubrica_2.wav,f09,1,apri rubrica 2,apri rubrica 2
+f09_05_Due.wav,f09,1,due,due
+f09_05_Sette.wav,f09,1,sette,sette
+f09_05_Stop.wav,f09,1,stop,stop.
+f09_05_Zero.wav,f09,1,zero,zero
+f09_05_Chiudi.wav,f09,1,chiudi,kiudi.
+f09_05_Tre.wav,f09,1,tre,trend.
+f09_05_Sali.wav,f09,1,sali,apri
+f09_05_Aggiungi_ai_preferiti.wav,f09,1,aggiungi ai preferiti,računija preverite.
+f09_05_Chiama.wav,f09,1,chiama,chiama.
+f09_05_Termina_chiamata.wav,f09,1,termina chiamata,termina.
+f09_05_Si.wav,f09,1,si,si
+f09_05_Chiudi_rubrica.wav,f09,1,chiudi rubrica,chiudi rubrica
+f09_05_Vai_nei_preferiti.wav,f09,1,vai nei preferiti,vai neprepozite
+f09_05_Top.wav,f09,1,top,top.
+f09_05_Sezione.wav,f09,1,sezione,seleziona
+f09_05_Bue.wav,f09,1,bue,bue
+f09_05_Tastiera.wav,f09,1,tastiera,tastier.
+f09_05_Tra.wav,f09,1,tra,teba
+f09_05_Nove.wav,f09,1,nove,nove.
+f09_05_Scorri_verso_l_alto.wav,f09,1,scorri verso l alto,stopi meso alto
+f09_05_Cancella_tutto.wav,f09,1,cancella tutto,cancella tutto.
+f09_05_Esci_da_rubrica.wav,f09,1,esci da rubrica,esci da rubrika
+f09_05_Rubrica.wav,f09,1,rubrica,rubrica
+f09_05_Vai_alla_pagina_principale.wav,f09,1,vai alla pagina principale,fai una pagina pagina pagina pagina pagina pagina pagina pagina pagina pagina pagina pagina pagina pagina pagina pagina pagina pagina pagina pagina pagina pagina pagina pagina pagina pagina pagina pagina pag
+f09_05_Rimuovi.wav,f09,1,rimuovi,rimuovi
+f09_05_Cancella_contatto.wav,f09,1,cancella contatto,cance contatto contatto contatto contatto contatto contatto contatto contatto contatto contatto contatto contatto contatto contatto contatto contatto contatto contatto contatto contatto contatto contatto contatto contatto contatto contatto contatto contatto contatto
+f09_05_Seleziona.wav,f09,1,seleziona,seleziona
+f09_05_Scesi.wav,f09,1,scesi,sosn.
+f09_05_Indietro.wav,f09,1,indietro,indistruocija 3. 3. 3. 3. 3. 3. 3. 3. 3. 3. 3. 3. 3. 3. 3. 3. 3. 3. 3. 3. 3. 3. 3. 3. 3. 3. 3.
+f09_05_Apri_rubrica_1.wav,f09,1,apri rubrica 1,apri rubrica
+f09_05_Fai_una_telefonata.wav,f09,1,fai una telefonata,fai una telefonata.
+f09_05_Chiamata.wav,f09,1,chiamata,chiamata 3.
+f09_05_Cinque.wav,f09,1,cinque,cinqueue
+f09_05_Scorri_verso_il_basso.wav,f09,1,scorri verso il basso,scorri verso il basso
+f09_05_Uno.wav,f09,1,uno,no
+f09_05_Chiama_ultimo_numero.wav,f09,1,chiama ultimo numero,chiama ultimo numero 1
+f09_05_Raggiungi.wav,f09,1,raggiungi,retunj.
+f09_05_Cella.wav,f09,1,cella,cez leko no.
+f09_05_Quattro.wav,f09,1,quattro,quattro quattro quattro quattro quattro quattro quattro quattro quattro quattro quattro quattro quattro quattro quattro quattro quattro quattro quattro quattro
+f09_05_Vai_nel_registro_chiamate.wav,f09,1,vai nel registro chiamate,vai nelijecu sa matke.
+f09_05_Chiama_emergenza.wav,f09,1,chiama emergenza,chiama imate.
+f09_05_Nave.wav,f09,1,nave,no
+f09_05_Sei.wav,f09,1,sei,sei.
+f09_05_Cancella.wav,f09,1,cancella,cancella
+f09_05_Vivavoce.wav,f09,1,vivavoce,vivamo uče
+f09_05_Zelo.wav,f09,1,zelo,zelo
+f09_05_Apri.wav,f09,1,apri,aprija.
+f09_05_Vai_alla_tastiera.wav,f09,1,vai alla tastiera,vai alla tastiera
+f09_02_Sopra.wav,f09,1,sopra,sopra
+f09_02_Nuovo_contatto.wav,f09,1,nuovo contatto,nuovo contatto.
+f09_02_Sette.wav,f09,1,sette,sette
+f09_02_Chiama_emergenza.wav,f09,1,chiama emergenza,chiamata chiamata chiamata chiamata chiamata chiamata chiamata chiamata chiamata chiamata chiamata chiamata chiamata chiamata chiamata chiamata chiamata chiamata chiamata chiamata
+f09_02_Nove.wav,f09,1,nove,nove.
+f09_02_Cinque.wav,f09,1,cinque,če unge.
+f09_02_Top.wav,f09,1,top,stop.stop.stop.stop.stop.stop.stop.stop.stop.stop.stop.stop.stop.stop.stop.stop.stop.stop.stop.stop.stop.stop.stop.stop.stop.stop.stop.stop.stop.stop.
+f09_02_Terminare.wav,f09,1,terminare,terminare.
+f09_02_Disattiva_vivavoce.wav,f09,1,disattiva vivavoce,disattiva vivavoce
+f09_02_Tre.wav,f09,1,tre,and then.
+f09_02_Apri_rubrica_3.wav,f09,1,apri rubrica 3,apri rubrica 2
+f09_02_Quattro.wav,f09,1,quattro,quattro.
+f09_02_Vai_nei_preferiti.wav,f09,1,vai nei preferiti,vajno prekričite.
+f09_02_Scorri_verso_il_basso.wav,f09,1,scorri verso il basso,scorri da фига.
+f09_02_Due.wav,f09,1,due,due
+f09_02_Attiva_vivavoce.wav,f09,1,attiva vivavoce,attiva vivavoce.
+f09_02_Nave.wav,f09,1,nave,no
+f09_02_Chiudi_rubrica.wav,f09,1,chiudi rubrica,chiudi rubrica
+f09_02_Aggiungi.wav,f09,1,aggiungi,aggiungo alla pagina principale.
+f09_02_Vai_nella_rubrica.wav,f09,1,vai nella rubrica,vai nella rubrica
+f09_02_Sotto.wav,f09,1,sotto,sopra
+f09_02_Rimuovi.wav,f09,1,rimuovi,rimuovi
+f09_02_Rubrica.wav,f09,1,rubrica,rubrica.
+f09_02_Scorri_verso_l_alto.wav,f09,1,scorri verso l alto,scorri na salata
+f09_02_Richiama.wav,f09,1,richiama,richiama.
+f09_02_Muovi.wav,f09,1,muovi,no
+f09_02_Preferiti.wav,f09,1,preferiti,preferiti
+f09_02_Apri.wav,f09,1,apri,apri
+f09_02_Apri_rubrica_2.wav,f09,1,apri rubrica 2,apur
+f09_02_Salva.wav,f09,1,salva,salva.salva.salva.salva.salva.salva.salva.salva.salva.salva.salva.salva.salva.salva.salva.salva.salva.salva.salva.salva.
+f09_02_Zelo.wav,f09,1,zelo,sejno
+f09_02_Scendi.wav,f09,1,scendi,scendi
+f09_02_Muto.wav,f09,1,muto,muto
+f09_02_Otto.wav,f09,1,otto,otto
+f09_02_Vai_alla_pagina_principale.wav,f09,1,vai alla pagina principale,vai alla pagina principale 3
+f09_02_Cella.wav,f09,1,cella,ceva.
+f09_02_Sezione.wav,f09,1,sezione,sezila
+f09_02_Apri_rubrica_1.wav,f09,1,apri rubrica 1,apri rubrica
+f09_02_Fai_una_telefonata.wav,f09,1,fai una telefonata,fai una telefonata telefonata telefonata telefonata telefonata telefonata telefonata telefonata telefonata telefonata telefonata telefonata telefonata telefonata telefonata telefonata telefonata telefonata telefonata telefonata telefonata telefonata telefonata telefonata telefonata telefonata telefonata telefonata telefon
+f09_02_No.wav,f09,1,no,no
+f09_02_Deseleziona.wav,f09,1,deseleziona,desele seseziona.
+f09_02_Vivavoce.wav,f09,1,vivavoce,vivavojta
+f09_02_Vai_nel_registro_chiamate.wav,f09,1,vai nel registro chiamate,vai neletete sukomatno
+f09_02_Sei.wav,f09,1,sei,sette
+f09_02_Vai_alla_tastiera.wav,f09,1,vai alla tastiera,vai alla tastiera.
+f09_02_Chiama_ultimo_numero.wav,f09,1,chiama ultimo numero,chiama ultimo numero 1
+f09_02_Mali.wav,f09,1,mali,mali
+f09_02_Uno.wav,f09,1,uno,bue
+f09_02_Seleziona.wav,f09,1,seleziona,seleziva
+f09_02_Cancella.wav,f09,1,cancella,cancella
+f09_02_Cancella_tutto.wav,f09,1,cancella tutto,cancella tutto tutto tutto tutto tutto tutto tutto tutto tutto tutto tutto tutto tutto tutto tutto tutto tutto tutto tutto tutto tutto tutto tutto tutto tutto tutto tutto tutto tutto tutto tutto tutto tutto tutto tutto tutto tutto tutto tutto tutto tutto tutto tutto tutto tutto tutto tutto tutto tutto tutto tutto tutto tutto tutto tutto tutto tutto
+f09_02_Termina_chiamata.wav,f09,1,termina chiamata,termina chiamata
+f09_02_Si.wav,f09,1,si,si.si.si.si.si.si.si.si.si.si.si.si.si.si.si.si.si.si.si.si.si.si.si.si.si.si.si.si.si.si.
+f09_02_Indietro.wav,f09,1,indietro,muli eta
+f09_02_Chiudi.wav,f09,1,chiudi,thank you.
+f09_02_Zero.wav,f09,1,zero,okay.
+f09_02_Scesi.wav,f09,1,scesi,sotto
+f09_02_Cancella_contatto.wav,f09,1,cancella contatto,cancella contatto.
+f09_02_Chiamata.wav,f09,1,chiamata,chiamata.
+f09_02_Chiama.wav,f09,1,chiama,chiamata.
+f09_02_Stop.wav,f09,1,stop,stop.
+f09_02_Chiudi_applicazione.wav,f09,1,chiudi applicazione,chiudi applicazione
+f09_02_Esci_da_rubrica.wav,f09,1,esci da rubrica,дојеме на веќе
+f09_02_Sali.wav,f09,1,sali,sali
+f09_02_Aggiungi_ai_preferiti.wav,f09,1,aggiungi ai preferiti,aggiungi ai preferiti.
+f09_02_Tastiera.wav,f09,1,tastiera,tastiera 2
+f09_02_Raggiungi.wav,f09,1,raggiungi,no.
+f09_02_Tra.wav,f09,1,tra,traksa.
+f09_02_Bue.wav,f09,1,bue,bue
+f09_03_Zero.wav,f09,1,zero,ve
+f09_03_Richiama.wav,f09,1,richiama,richiama.
+f09_03_Top.wav,f09,1,top,stop
+f09_03_Stop.wav,f09,1,stop,stop.
+f09_03_Chiama_emergenza.wav,f09,1,chiama emergenza,chiamata chiamata chiamata chiamata chiamata chiamata chiamata chiamata chiamata chiamata chiamata chiamata chiamata chiamata chiamata chiamata chiamata chiamata chiamata chiamata
+f09_03_Tre.wav,f09,1,tre,trend.
+f09_03_Nuovo_contatto.wav,f09,1,nuovo contatto,nuovo contatto
+f09_03_Terminare.wav,f09,1,terminare,chiamatate
+f09_03_Cella.wav,f09,1,cella,cella
+f09_03_Rimuovi.wav,f09,1,rimuovi,rima o
+f09_03_Rubrica.wav,f09,1,rubrica,buejta
+f09_03_Aggiungi.wav,f09,1,aggiungi,a giunti.
+f09_03_No.wav,f09,1,no,no.
+f09_03_Cinque.wav,f09,1,cinque,si
+f09_03_Cancella_contatto.wav,f09,1,cancella contatto,cancella contatto 1
+f09_03_Apri_rubrica_3.wav,f09,1,apri rubrica 3,apri rubrica 3
+f09_03_Sali.wav,f09,1,sali,sada
+f09_03_Due.wav,f09,1,due,due
+f09_03_Scesi.wav,f09,1,scesi,sasvi
+f09_03_Muto.wav,f09,1,muto,muto
+f09_03_Otto.wav,f09,1,otto,от
+f09_03_Chiudi_rubrica.wav,f09,1,chiudi rubrica,chiudi rubrica.
+f09_03_Attiva_vivavoce.wav,f09,1,attiva vivavoce,attiva vivavoce.
+f09_03_Fai_una_telefonata.wav,f09,1,fai una telefonata,fine alla quattro chiamate chiamate chiamate chiamate chiamate chiamate chiamate chiamate chiamate chiamate chiamate chiamate chiamate chiamate chiamate chiamate chiamate chiamate
+f09_03_Scorri_verso_il_basso.wav,f09,1,scorri verso il basso,scorri verso il basco
+f09_03_Vai_alla_tastiera.wav,f09,1,vai alla tastiera,vai alla tastiera.
+f09_03_Mali.wav,f09,1,mali,quattro quattro quattro quattro quattro quattro quattro quattro quattro quattro quattro quattro quattro quattro quattro quattro quattro quattro quattro quattro
+f09_03_Apri_rubrica_2.wav,f09,1,apri rubrica 2,apri rubrica 2
+f09_03_Vai_alla_pagina_principale.wav,f09,1,vai alla pagina principale,vai alla pagina principale.
+f09_03_Scorri_verso_l_alto.wav,f09,1,scorri verso l alto,scorita sva
+f09_03_Quattro.wav,f09,1,quattro,quattro quattro quattro quattro quattro quattro quattro quattro quattro quattro quattro quattro quattro quattro quattro quattro quattro quattro quattro quattro
+f09_03_Si.wav,f09,1,si,si.si.si.si.si.si.si.si.si.si.si.si.si.si.si.si.si.si.si.si.si.si.si.si.si.si.si.si.si.si.
+f09_03_Preferiti.wav,f09,1,preferiti,preferiti
+f09_03_Aggiungi_ai_preferiti.wav,f09,1,aggiungi ai preferiti,aggiungi per seziji.
+f09_03_Apri_rubrica_1.wav,f09,1,apri rubrica 1,apri rubrica 2
+f09_03_Tastiera.wav,f09,1,tastiera,tastiera 1
+f09_03_Chiama_ultimo_numero.wav,f09,1,chiama ultimo numero,chiama ultimo numero 1
+f09_03_Esci_da_rubrica.wav,f09,1,esci da rubrica,и сетиром рецor.
+f09_03_Sopra.wav,f09,1,sopra,sopračite sve sve sve sve sve sve sve sve sve sve sve sve sve sve sve sve sve sve sve sve sve sve sve sve sve sve sve s
+f09_03_Nave.wav,f09,1,nave,nave
+f09_03_Sette.wav,f09,1,sette,sette
+f09_03_Seleziona.wav,f09,1,seleziona,seleziona
+f09_03_Vai_nella_rubrica.wav,f09,1,vai nella rubrica,vai nareboj
+f09_03_Cancella_tutto.wav,f09,1,cancella tutto,cancella tutto tutto tutto tutto tutto tutto tutto tutto tutto tutto tutto tutto tutto tutto tutto tutto tutto tutto tutto tutto tutto tutto tutto tutto tutto tutto tutto tutto tutto tutto tutto tutto tutto tutto tutto tutto tutto tutto tutto tutto tutto tutto tutto tutto tutto tutto tutto tutto tutto tutto tutto tutto tutto tutto tutto tutto tutto
+f09_03_Indietro.wav,f09,1,indietro,cancella tutto tutto tutto tutto tutto tutto tutto tutto tutto tutto tutto tutto tutto tutto tutto tutto tutto tutto tutto tutto tutto tutto tutto tutto tutto tutto tutto tutto tutto tutto tutto tutto tutto tutto tutto tutto tutto tutto tutto tutto tutto tutto tutto tutto tutto tutto tutto tutto tutto tutto tutto tutto tutto tutto tutto tutto tutto
+f09_03_Apri.wav,f09,1,apri,apri
+f09_03_Sei.wav,f09,1,sei,sette.
+f09_03_Termina_chiamata.wav,f09,1,termina chiamata,termina chiamata
+f09_03_Zelo.wav,f09,1,zelo,ino.
+f09_03_Uno.wav,f09,1,uno,uno prave sve sve sve sve sve sve sve sve sve sve sve sve sve sve sve sve sve sve sve sve sve sve sve sve sve sve sve sve s
+f09_03_Chiamata.wav,f09,1,chiamata,chiamata
+f09_03_Scendi.wav,f09,1,scendi,scendi.scendi.scendi.scendi.scendi.scendi.scendi.scendi.scendi.scendi.scendi.scendi.scendi.scendi.scendi.scendi.scendi.scendi.scendi.scendi.
+f09_03_Sotto.wav,f09,1,sotto,sopra
+f09_03_Deseleziona.wav,f09,1,deseleziona,sez sezona.
+f09_03_Sezione.wav,f09,1,sezione,seleziona
+f09_03_Nove.wav,f09,1,nove,no
+f09_03_Vai_nei_preferiti.wav,f09,1,vai nei preferiti,vai nei-prej.
+f09_03_Cancella.wav,f09,1,cancella,cancella
+f09_03_Disattiva_vivavoce.wav,f09,1,disattiva vivavoce,जाएश्की पाइए पॉछ
+f09_03_Chiama.wav,f09,1,chiama,yes.
+f09_03_Vai_nel_registro_chiamate.wav,f09,1,vai nel registro chiamate,vai neletistavno prematno
+f09_03_Salva.wav,f09,1,salva,salva 3. salva 3. salva 3. salva 3. salva 3. salva 3. salva 3. salva 3. salva 3. salva 3. salva 3. salva 3. salva 3. salva 3. salva 3.
+f09_03_Chiudi.wav,f09,1,chiudi,you.
+f09_03_Chiudi_applicazione.wav,f09,1,chiudi applicazione,seleziona contatto contatto contatto contatto contatto contatto contatto contatto contatto contatto contatto contatto contatto contatto contatto contatto contatto contatto contatto contatto contatto contatto contatto contatto contatto contatto contatto contatto cont
+f09_03_Vivavoce.wav,f09,1,vivavoce,vivavoce alla tastiera 3
+f09_03_Muovi.wav,f09,1,muovi,novej
+f09_03_Bue.wav,f09,1,bue,bue
+f09_03_Tra.wav,f09,1,tra,ta.
+f09_03_Raggiungi.wav,f09,1,raggiungi,sotto
+f09_04_Cancella_tutto.wav,f09,1,cancella tutto,cancella tutto.
+f09_04_Aggiungi.wav,f09,1,aggiungi,aggiungi.
+f09_04_Top.wav,f09,1,top,stop.
+f09_04_Raggiungi.wav,f09,1,raggiungi,računjte
+f09_04_Esci_da_rubrica.wav,f09,1,esci da rubrica,esci da rubričamo.
+f09_04_Tre.wav,f09,1,tre,tre
+f09_04_Mali.wav,f09,1,mali,mali
+f09_04_Aggiungi_ai_preferiti.wav,f09,1,aggiungi ai preferiti,aggiungi per se viste.
+f09_04_Sopra.wav,f09,1,sopra,sopra
+f09_04_Apri_rubrica_1.wav,f09,1,apri rubrica 1,apri rubrica
+f09_04_Sette.wav,f09,1,sette,sette.
+f09_04_Chiudi_applicazione.wav,f09,1,chiudi applicazione,chiude potresena
+f09_04_Richiama.wav,f09,1,richiama,richiama.
+f09_04_Vai_alla_tastiera.wav,f09,1,vai alla tastiera,vai alla tastiera.
+f09_04_Otto.wav,f09,1,otto,otto
+f09_04_Cinque.wav,f09,1,cinque,cricu
+f09_04_Muto.wav,f09,1,muto,muto 2
+f09_04_Chiama_ultimo_numero.wav,f09,1,chiama ultimo numero,chiama ultimo numero 1
+f09_04_Due.wav,f09,1,due,due.
+f09_04_Sezione.wav,f09,1,sezione,sezione
+f09_04_Sali.wav,f09,1,sali,sali.
+f09_04_Muovi.wav,f09,1,muovi,muovi
+f09_04_Vai_nel_registro_chiamate.wav,f09,1,vai nel registro chiamate,vai nelijecite chiamate
+f09_04_Seleziona.wav,f09,1,seleziona,seleziona.com
+f09_04_Cancella_contatto.wav,f09,1,cancella contatto,cancella contatto.
+f09_04_Salva.wav,f09,1,salva,salza
+f09_04_Vai_alla_pagina_principale.wav,f09,1,vai alla pagina principale,vai inaplica di pregato.
+f09_04_Fai_una_telefonata.wav,f09,1,fai una telefonata,fai una telefonata
+f09_04_Stop.wav,f09,1,stop,stop.
+f09_04_Sotto.wav,f09,1,sotto,sotto
+f09_04_Chiama_emergenza.wav,f09,1,chiama emergenza,cammare chiamsa
+f09_04_Zero.wav,f09,1,zero,zero.
+f09_04_Quattro.wav,f09,1,quattro,quattro.
+f09_04_Indietro.wav,f09,1,indietro,indietro
+f09_04_Preferiti.wav,f09,1,preferiti,preferiti.
+f09_04_Chiamata.wav,f09,1,chiamata,chiamata
+f09_04_Apri_rubrica_3.wav,f09,1,apri rubrica 3,apri rubrica.
+f09_04_Scendi.wav,f09,1,scendi,scendi
+f09_04_Scorri_verso_l_alto.wav,f09,1,scorri verso l alto,scorri verso l alto.
+f09_04_Tastiera.wav,f09,1,tastiera,tastiera
+f09_04_Nove.wav,f09,1,nove,nove
+f09_04_Sei.wav,f09,1,sei,sali?
+f09_04_Cella.wav,f09,1,cella,cella.
+f09_04_Vai_nei_preferiti.wav,f09,1,vai nei preferiti,vai neprej se prejete.
+f09_04_Uno.wav,f09,1,uno,uno.
+f09_04_Nuovo_contatto.wav,f09,1,nuovo contatto,nuovo contatto
+f09_04_Si.wav,f09,1,si,si
+f09_04_Termina_chiamata.wav,f09,1,termina chiamata,termina chiamata
+f09_04_Scorri_verso_il_basso.wav,f09,1,scorri verso il basso,scorri verso il basso
+f09_04_Apri_rubrica_2.wav,f09,1,apri rubrica 2,apri rubrica.
+f09_04_Attiva_vivavoce.wav,f09,1,attiva vivavoce,attiva vivavoce.
+f09_04_Zelo.wav,f09,1,zelo,zero.
+f09_04_Vai_nella_rubrica.wav,f09,1,vai nella rubrica,vajno rubrica
+f09_04_Vivavoce.wav,f09,1,vivavoce,vivavoce.
+f09_04_Rubrica.wav,f09,1,rubrica,rubika
+f09_04_Rimuovi.wav,f09,1,rimuovi,rimuovi
+f09_04_Apri.wav,f09,1,apri,apri
+f09_04_Disattiva_vivavoce.wav,f09,1,disattiva vivavoce,disattiva vivavoce
+f09_04_Nave.wav,f09,1,nave,nave
+f09_04_No.wav,f09,1,no,no
+f09_04_Chiudi.wav,f09,1,chiudi,chiudi
+f09_04_Terminare.wav,f09,1,terminare,terminare
+f09_04_Scesi.wav,f09,1,scesi,scesi.
+f09_04_Tra.wav,f09,1,tra,tra.tra.tra.tra.tra.tra.tra.tra.tra.tra.tra.tra.tra.tra.tra.tra.tra.tra.tra.tra.tra.tra.tra.tra.tra.tra.tra.tra.tra.tra.
+f09_04_Bue.wav,f09,1,bue,bue
+f09_04_Chiudi_rubrica.wav,f09,1,chiudi rubrica,chiudimo da je u varej strani
+f09_04_Cancella.wav,f09,1,cancella,cancella.
+f09_04_Deseleziona.wav,f09,1,deseleziona,deseleziona.
+f09_04_Chiama.wav,f09,1,chiama,chiama.
+m17_05_Chiudi_applicazione.wav,m17,1,chiudi applicazione,chiudi applicazione
+m17_05_Cinque.wav,m17,1,cinque,cinque.
+m17_05_Top.wav,m17,1,top,top
+m17_05_Chiamata.wav,m17,1,chiamata,chiamata
+m17_05_Seleziona.wav,m17,1,seleziona,seleziona
+m17_05_Tre.wav,m17,1,tre,tre' tre' tre' tre' tre' tre' tre' tre' tre' tre' tre' tre' tre' tre' tre' tre' tre' tre' tre' tre' tre' tre' tre' tre' tre' tre' tre' tre' tre' tre'
+m17_05_Apri_rubrica_2.wav,m17,1,apri rubrica 2,apri rubrica
+m17_05_Zero.wav,m17,1,zero,zero
+m17_05_Deseleziona.wav,m17,1,deseleziona,desezione...sezione...sezione...sezione...sezione...sezione...sezione...sezione...sezione...sezione...sezione...sezione...sezione...sezione...sezione...sezione...sezione...sezione...sezione...sezione
+m17_05_Chiama_ultimo_numero.wav,m17,1,chiama ultimo numero,chiama ultimo numero 1
+m17_05_Indietro.wav,m17,1,indietro,indietro
+m17_05_Sette.wav,m17,1,sette,sette
+m17_05_Stop.wav,m17,1,stop,stop
+m17_05_Sopra.wav,m17,1,sopra,sopra
+m17_05_No.wav,m17,1,no,no
+m17_05_Scorri_verso_il_basso.wav,m17,1,scorri verso il basso,scorri verso il basso.
+m17_05_Chiudi_rubrica.wav,m17,1,chiudi rubrica,ki chiudi rubrica.
+m17_05_Sali.wav,m17,1,sali,sali
+m17_05_Termina_chiamata.wav,m17,1,termina chiamata,termina chiamata
+m17_05_Vai_nei_preferiti.wav,m17,1,vai nei preferiti,vai nei preferiti.vai nei preferiti.vai nei preferiti.vai nei preferiti.vai nei preferiti.vai nei preferiti.vai nei preferiti.vai nei preferiti.vai nei preferiti.vai nei preferiti.
+m17_05_Tastiera.wav,m17,1,tastiera,tastiera
+m17_05_Due.wav,m17,1,due,due
+m17_05_Attiva_vivavoce.wav,m17,1,attiva vivavoce,avia vivavoce
+m17_05_Otto.wav,m17,1,otto,otto
+m17_05_Muto.wav,m17,1,muto,muto
+m17_05_Fai_una_telefonata.wav,m17,1,fai una telefonata,fai una telefonata.
+m17_05_Raggiungi.wav,m17,1,raggiungi,raggiungi
+m17_05_Apri_rubrica_3.wav,m17,1,apri rubrica 3,apri rubrica
+m17_05_Vai_nella_rubrica.wav,m17,1,vai nella rubrica,vai nella rubrica 3. sve sve sve sve sve sve sve sve sve sve sve sve sve sve sve sve sve sve sve sve sve sve sve sve sve sve s
+m17_05_Vivavoce.wav,m17,1,vivavoce,vivavoce
+m17_05_Vai_nel_registro_chiamate.wav,m17,1,vai nel registro chiamate,vai neljede zestru chiamate
+m17_05_Sotto.wav,m17,1,sotto,sotto
+m17_05_Nuovo_contatto.wav,m17,1,nuovo contatto,nuovo contatto
+m17_05_Cancella.wav,m17,1,cancella,cancella.
+m17_05_Sezione.wav,m17,1,sezione,sezione
+m17_05_Salva.wav,m17,1,salva,salva
+m17_05_Si.wav,m17,1,si,si
+m17_05_Mali.wav,m17,1,mali,mali
+m17_05_Muovi.wav,m17,1,muovi,muovi
+m17_05_Scorri_verso_l_alto.wav,m17,1,scorri verso l alto,scorri verso lato.
+m17_05_Rimuovi.wav,m17,1,rimuovi,rimuovi
+m17_05_Rubrica.wav,m17,1,rubrica,rubrica
+m17_05_Nave.wav,m17,1,nave,nave
+m17_05_Scendi.wav,m17,1,scendi,skoncentrati skoncentrati skoncentrati se sendi.
+m17_05_Chiama_emergenza.wav,m17,1,chiama emergenza,chiama emergenza
+m17_05_Cella.wav,m17,1,cella,cella
+m17_05_Aggiungi.wav,m17,1,aggiungi,ražunji
+m17_05_Vai_alla_pagina_principale.wav,m17,1,vai alla pagina principale,vaj v svojo principale.
+m17_05_Sei.wav,m17,1,sei,sei.
+m17_05_Terminare.wav,m17,1,terminare,terminare
+m17_05_Apri.wav,m17,1,apri,apri
+m17_05_Vai_alla_tastiera.wav,m17,1,vai alla tastiera,vai alla tastiera
+m17_05_Richiama.wav,m17,1,richiama,richiama.
+m17_05_Uno.wav,m17,1,uno,bue amma una
+m17_05_Zelo.wav,m17,1,zelo,zelo
+m17_05_Disattiva_vivavoce.wav,m17,1,disattiva vivavoce,disattiva vivavoce.
+m17_05_Scesi.wav,m17,1,scesi,scesi
+m17_05_Nove.wav,m17,1,nove,nove
+m17_05_Preferiti.wav,m17,1,preferiti,preferiti
+m17_05_Quattro.wav,m17,1,quattro,quattro quattro quattro quattro quattro quattro quattro quattro quattro quattro quattro quattro quattro quattro quattro quattro quattro quattro quattro quattro
+m17_05_Cancella_contatto.wav,m17,1,cancella contatto,cancella contatto.
+m17_05_Chiama.wav,m17,1,chiama,chiama
+m17_05_Cancella_tutto.wav,m17,1,cancella tutto,cancella tutto.
+m17_05_Chiudi.wav,m17,1,chiudi,chiudi
+m17_05_Esci_da_rubrica.wav,m17,1,esci da rubrica,esci dalla rubrica.
+m17_05_Apri_rubrica_1.wav,m17,1,apri rubrica 1,apri rubrica
+m17_05_Bue.wav,m17,1,bue,bue
+m17_05_Tra.wav,m17,1,tra,trave
+m17_05_Aggiungi_ai_preferiti.wav,m17,1,aggiungi ai preferiti,apubri al cun ci ai preferiti
+m17_02_Scorri_verso_l_alto.wav,m17,1,scorri verso l alto,scorri verso l'alto.
+m17_02_Zero.wav,m17,1,zero,zero
+m17_02_Scesi.wav,m17,1,scesi,scesi sejsi sejsi sejsi sejsi sejsi sejsi sejsi sejsi sejsi sejsi sejsi sejsi sejsi sejsi sejsi sejsi sejsi sejsi sejsi
+m17_02_Vivavoce.wav,m17,1,vivavoce,vivo voce.
+m17_02_Vai_nella_rubrica.wav,m17,1,vai nella rubrica,vai nella rubrica
+m17_02_Apri_rubrica_2.wav,m17,1,apri rubrica 2,apri rubrica
+m17_02_Due.wav,m17,1,due,bue.bue.bue.bue.buebuebuebuebuebuebuebuebuebuebuebuebuebuebuebuebuebuebuebuebuebuebuebue
+m17_02_Stop.wav,m17,1,stop,stop
+m17_02_Top.wav,m17,1,top,top
+m17_02_Chiudi_rubrica.wav,m17,1,chiudi rubrica,chiudi rubrica 2
+m17_02_Sali.wav,m17,1,sali,sali
+m17_02_Tre.wav,m17,1,tre,dve
+m17_02_Aggiungi_ai_preferiti.wav,m17,1,aggiungi ai preferiti,aggiungi ai preferiti preferiti preferiti preferiti preferiti preferiti preferiti preferiti preferiti preferiti preferiti preferiti preferiti preferiti preferiti preferiti preferiti preferiti preferiti preferiti preferiti preferiti preferiti preferiti preferiti preferiti preferiti preferiti
+m17_02_Rubrica.wav,m17,1,rubrica,rubrica
+m17_02_Rimuovi.wav,m17,1,rimuovi,rimuovi
+m17_02_Cancella.wav,m17,1,cancella,cele cella
+m17_02_Raggiungi.wav,m17,1,raggiungi,raèdraggiungi minti.
+m17_02_Muto.wav,m17,1,muto,muto.
+m17_02_Otto.wav,m17,1,otto,otto
+m17_02_Indietro.wav,m17,1,indietro,indietro
+m17_02_Apri_rubrica_3.wav,m17,1,apri rubrica 3,apri rubrica
+m17_02_Cella.wav,m17,1,cella,cella
+m17_02_Chiamata.wav,m17,1,chiamata,chiamata chiamata chiamata chiamata chiamata chiamata chiamata chiamata chiamata chiamata chiamata chiamata chiamata chiamata chiamata chiamata chiamata chiamata chiamata chiamata
+m17_02_Disattiva_vivavoce.wav,m17,1,disattiva vivavoce,disattiva vivavoce.
+m17_02_Termina_chiamata.wav,m17,1,termina chiamata,termina chiamata
+m17_02_Tastiera.wav,m17,1,tastiera,tastiera
+m17_02_Seleziona.wav,m17,1,seleziona,selezionimo selezionimo selezionimo selezionimo selezionimo selezionimo selezionimo selezionimo selezionimo selezionimo selezionimo selezionimo selezionimo selezionimo selezionimo
+m17_02_Nuovo_contatto.wav,m17,1,nuovo contatto,nuovo contesto
+m17_02_Vai_nei_preferiti.wav,m17,1,vai nei preferiti,vai nei preferiti
+m17_02_Quattro.wav,m17,1,quattro,quattro quattro quattro quattro quattro quattro quattro quattro quattro quattro quattro quattro quattro quattro quattro quattro quattro quattro quattro quattro
+m17_02_Mali.wav,m17,1,mali,mali mali
+m17_02_Cinque.wav,m17,1,cinque,cinque
+m17_02_Vai_nel_registro_chiamate.wav,m17,1,vai nel registro chiamate,vaj v registru chvistavati.
+m17_02_Esci_da_rubrica.wav,m17,1,esci da rubrica,esci da rubrica
+m17_02_Nave.wav,m17,1,nave,nave
+m17_02_Chiudi_applicazione.wav,m17,1,chiudi applicazione,chiudi applicazione
+m17_02_Sei.wav,m17,1,sei,sei.
+m17_02_Cancella_contatto.wav,m17,1,cancella contatto,cancellare bo sečejo kontakte.
+m17_02_Sotto.wav,m17,1,sotto,sotto
+m17_02_Uno.wav,m17,1,uno,bue mabue
+m17_02_Chiama_ultimo_numero.wav,m17,1,chiama ultimo numero,chiama ultimo numero 1
+m17_02_No.wav,m17,1,no,no
+m17_02_Muovi.wav,m17,1,muovi,muovi
+m17_02_Chiama.wav,m17,1,chiama,chiamata chiamata chiamata chiamata chiamata chiamata chiamata chiamata chiamata chiamata chiamata chiamata chiamata chiamata chiamata chiamata chiamata chiamata chiamata chiamata
+m17_02_Vai_alla_pagina_principale.wav,m17,1,vai alla pagina principale,vai alla pagina principale.
+m17_02_Attiva_vivavoce.wav,m17,1,attiva vivavoce,attiva vivavoce
+m17_02_Chiudi.wav,m17,1,chiudi,chiudi chiusi chiudi chiudi chiusi chiudi chiusi chiudi chiusi chiudi chiusi chiudi chiusi chiudi chiusi chiudi chiusi chiudi chiusi chiudi chiusi chiudi chiusi chiudi ch
+m17_02_Salva.wav,m17,1,salva,salva
+m17_02_Apri.wav,m17,1,apri,apri
+m17_02_Preferiti.wav,m17,1,preferiti,preferiti
+m17_02_Zelo.wav,m17,1,zelo,zido
+m17_02_Sette.wav,m17,1,sette,sette
+m17_02_Sopra.wav,m17,1,sopra,sopra
+m17_02_Aggiungi.wav,m17,1,aggiungi,računji
+m17_02_Nove.wav,m17,1,nove,nove
+m17_02_Si.wav,m17,1,si,si
+m17_02_Deseleziona.wav,m17,1,deseleziona,deseleziona.
+m17_02_Bue.wav,m17,1,bue,bue
+m17_02_Tra.wav,m17,1,tra,tra
+m17_02_Sezione.wav,m17,1,sezione,sezione
+m17_02_Chiama_emergenza.wav,m17,1,chiama emergenza,chiama emergenza 3
+m17_02_Fai_una_telefonata.wav,m17,1,fai una telefonata,vaj una telefonata.
+m17_02_Cancella_tutto.wav,m17,1,cancella tutto,cancella tutto.
+m17_02_Terminare.wav,m17,1,terminare,terminare terminare terminare terminare terminare terminare terminare terminare terminare terminare terminare terminare terminare terminare terminare terminare terminare terminare terminare terminare terminare terminare terminare terminare terminare terminare terminare terminare terminare terminare
+m17_02_Richiama.wav,m17,1,richiama,richiama
+m17_02_Scorri_verso_il_basso.wav,m17,1,scorri verso il basso,scorri verso il basso.
+m17_02_Vai_alla_tastiera.wav,m17,1,vai alla tastiera,vai alla tastica era vajala tastiera.
+m17_02_Scendi.wav,m17,1,scendi,scendi scendi scendi scendi scendi scendi scendi scendi scendi scendi scendi scendi scendi scendi scendi scendi scendi scendi scendi scendi scendi scendi scendi scendi scendi scendi scendi scendi scendi scendi
+m17_02_Apri_rubrica_1.wav,m17,1,apri rubrica 1,apri rubrica
+m17_06_Tre.wav,m17,1,tre,tre' rej.
+m17_06_Chiudi_rubrica.wav,m17,1,chiudi rubrica,chiudi rubrica 3
+m17_06_Tastiera.wav,m17,1,tastiera,tastiera
+m17_06_Quattro.wav,m17,1,quattro,quattro
+m17_06_Top.wav,m17,1,top,top
+m17_06_Sopra.wav,m17,1,sopra,sopra
+m17_06_Aggiungi_ai_preferiti.wav,m17,1,aggiungi ai preferiti,aggiungi ai preferiti.
+m17_06_Sette.wav,m17,1,sette,sejt
+m17_06_Due.wav,m17,1,due,due
+m17_06_Indietro.wav,m17,1,indietro,indietro
+m17_06_Chiama_ultimo_numero.wav,m17,1,chiama ultimo numero,chiama ultimo numero 3
+m17_06_Terminare.wav,m17,1,terminare,terminare
+m17_06_Nove.wav,m17,1,nove,nove
+m17_06_Apri_rubrica_2.wav,m17,1,apri rubrica 2,apri rubrica
+m17_06_Chiamata.wav,m17,1,chiamata,chiamata
+m17_06_Cancella_contatto.wav,m17,1,cancella contatto,cancella contatto.
+m17_06_Zelo.wav,m17,1,zelo,zelo
+m17_06_Chiudi_applicazione.wav,m17,1,chiudi applicazione,chiudi applicazione
+m17_06_Rimuovi.wav,m17,1,rimuovi,rimuovi
+m17_06_Deseleziona.wav,m17,1,deseleziona,deseleziona
+m17_06_Rubrica.wav,m17,1,rubrica,rubrica
+m17_06_Muovi.wav,m17,1,muovi,muovi
+m17_06_Nuovo_contatto.wav,m17,1,nuovo contatto,"ne vrubim novo kontrolo, novo contatto."
+m17_06_Cinque.wav,m17,1,cinque,cinque
+m17_06_Apri.wav,m17,1,apri,apri
+m17_06_Cancella.wav,m17,1,cancella,cancella.
+m17_06_Salva.wav,m17,1,salva,sal seb
+m17_06_Preferiti.wav,m17,1,preferiti,preferiti
+m17_06_Vai_alla_tastiera.wav,m17,1,vai alla tastiera,vai alla tastiera.
+m17_06_Apri_rubrica_3.wav,m17,1,apri rubrica 3,apri rubrica
+m17_06_Fai_una_telefonata.wav,m17,1,fai una telefonata,fai una telefonata.
+m17_06_Attiva_vivavoce.wav,m17,1,attiva vivavoce,attiva vivavoce.
+m17_06_Sotto.wav,m17,1,sotto,sotto sotto sotto sotto sotto sotto sotto sotto sotto sotto sotto sotto sotto sotto sotto sotto sotto sotto sotto sotto sotto sotto sotto sotto sotto sotto sotto sotto sotto sotto sotto sotto sotto sotto sotto sotto sotto sotto sotto sotto sotto sotto sotto sotto sotto sotto sotto sotto sotto sotto sotto sotto sotto sotto sotto sotto sotto sotto sotto
+m17_06_Chiama_emergenza.wav,m17,1,chiama emergenza,chiama emergenza.
+m17_06_Vivavoce.wav,m17,1,vivavoce,vivavoce
+m17_06_Nave.wav,m17,1,nave,nave
+m17_06_Richiama.wav,m17,1,richiama,richiama
+m17_06_Seleziona.wav,m17,1,seleziona,seleziona
+m17_06_Mali.wav,m17,1,mali,malimali
+m17_06_Chiudi.wav,m17,1,chiudi,chiudi
+m17_06_No.wav,m17,1,no,no.
+m17_06_Chiama.wav,m17,1,chiama,chiamata chiamata chiamata chiamata chiamata chiamata chiamata chiamata chiamata chiamata chiamata chiamata chiamata chiamata chiamata chiamata chiamata chiamata chiamata chiamata
+m17_06_Vai_nella_rubrica.wav,m17,1,vai nella rubrica,vrnjena rubrica
+m17_06_Uno.wav,m17,1,uno,uno no...
+m17_06_Esci_da_rubrica.wav,m17,1,esci da rubrica,esvita rubrica 1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1
+m17_06_Sezione.wav,m17,1,sezione,seleziona sezione
+m17_06_Aggiungi.wav,m17,1,aggiungi,računji
+m17_06_Cella.wav,m17,1,cella,cella.
+m17_06_Vai_alla_pagina_principale.wav,m17,1,vai alla pagina principale,vaj na pagina principale.
+m17_06_Otto.wav,m17,1,otto,otto
+m17_06_Sei.wav,m17,1,sei,sei.
+m17_06_Muto.wav,m17,1,muto,muto
+m17_06_Termina_chiamata.wav,m17,1,termina chiamata,termina chiamata
+m17_06_Scendi.wav,m17,1,scendi,scendi scendi scendi scendi scendi scendi scendi scendi scendi scendi scendi scendi scendi scendi scendi scendi scendi scendi scendi scendi scendi scendi scendi scendi scendi scendi scendi scendi scendi scendi
+m17_06_Vai_nel_registro_chiamate.wav,m17,1,vai nel registro chiamate,vaj nel registro chiamate
+m17_06_Si.wav,m17,1,si,si.si.si.si.si.si.si.si.si.si.si.si.si.si.si.si.si.si.si.si.si.si.si.si.si.si.si.si.si.si.
+m17_06_Scorri_verso_l_alto.wav,m17,1,scorri verso l alto,scorri verso lato.
+m17_06_Raggiungi.wav,m17,1,raggiungi,računji mi
+m17_06_Sali.wav,m17,1,sali,sali
+m17_06_Apri_rubrica_1.wav,m17,1,apri rubrica 1,apare rubrica 3
+m17_06_Vai_nei_preferiti.wav,m17,1,vai nei preferiti,vaj nekaj preferiti.
+m17_06_Disattiva_vivavoce.wav,m17,1,disattiva vivavoce,disattiva vivavoce.
+m17_06_Stop.wav,m17,1,stop,stop
+m17_06_Tra.wav,m17,1,tra,tra.tra.tra.tra.tra.tra.tra.tra.tra.tra.tra.tra.tra.tra.tra.tra.tra.tra.tra.tra.tra.tra.tra.tra.tra.tra.tra.tra.tra.tra.
+m17_06_Bue.wav,m17,1,bue,bue
+m17_06_Zero.wav,m17,1,zero,zero
+m17_06_Scesi.wav,m17,1,scesi,"scesi,scesi,scesi,scesi,scesi,scesi,scesi,scesi,scesi,scesi,scesi,scesi,scesi,scesi,scesi,"
+m17_06_Scorri_verso_il_basso.wav,m17,1,scorri verso il basso,skopri in veri sokori verso v basu.
+m17_06_Cancella_tutto.wav,m17,1,cancella tutto,cancella tutto.
+m17_01_Tastiera.wav,m17,1,tastiera,tastiera
+m17_01_Vai_nella_rubrica.wav,m17,1,vai nella rubrica,vai nella rubrica
+m17_01_Scorri_verso_il_basso.wav,m17,1,scorri verso il basso,skorri verso vas.
+m17_01_No.wav,m17,1,no,no
+m17_01_Chiama_emergenza.wav,m17,1,chiama emergenza,chiama emergenza 2. chrišta 1. chrišta 2. chrišta 3. chrišta 1. chrišta 2. chrišta 3. chrišta 1. chrišta 2. chrišta 1.
+m17_01_Cella.wav,m17,1,cella,cella
+m17_01_Raggiungi.wav,m17,1,raggiungi,raggiungi menti raggiungi menti raggiungi menti raggiungi menti raggiungi menti raggiungi menti raggiungi menti raggiungi menti raggiungi menti raggiungi menti
+m17_01_Cancella_tutto.wav,m17,1,cancella tutto,cancella tutto tutto
+m17_01_Nave.wav,m17,1,nave,nove
+m17_01_Quattro.wav,m17,1,quattro,quanto luro...quanto luro...
+m17_01_Zelo.wav,m17,1,zelo,zelo
+m17_01_Indietro.wav,m17,1,indietro,indietro
+m17_01_Scorri_verso_l_alto.wav,m17,1,scorri verso l alto,scorri verso l alto.
+m17_01_Apri.wav,m17,1,apri,apri
+m17_01_Chiamata.wav,m17,1,chiamata,chiamata
+m17_01_Tra.wav,m17,1,tra,tra
+m17_01_Apri_rubrica_1.wav,m17,1,apri rubrica 1,apri rubrica
+m17_01_Bue.wav,m17,1,bue,buebuebuebuebuebuebuebuebuebuebuebuebuebuebuebuebuebuebuebuebuebuebuebuebuebuebuebuebuebue
+m17_01_Cinque.wav,m17,1,cinque,cinque.
+m17_01_Seleziona.wav,m17,1,seleziona,seleziona
+m17_01_Scesi.wav,m17,1,scesi,scesi
+m17_01_Nove.wav,m17,1,nove,nove
+m17_01_Attiva_vivavoce.wav,m17,1,attiva vivavoce,attiva vivavoce vivavoce vivavoce vivavoce vivavoce vivavoce vivavoce vivavoce vivavoce vivavoce vivavoce vivavoce vivavoce vivavoce vivavoce vivavoce vivavoce vivavoce vivavoce viv
+m17_01_Disattiva_vivavoce.wav,m17,1,disattiva vivavoce,dai disponibita disattiva vivavoce.
+m17_01_Cancella.wav,m17,1,cancella,cancella
+m17_01_Vai_alla_pagina_principale.wav,m17,1,vai alla pagina principale,vaj v prvičnih predslednjih vodah.
+m17_01_Si.wav,m17,1,si,si
+m17_01_Deseleziona.wav,m17,1,deseleziona,deseleziona
+m17_01_Sei.wav,m17,1,sei,sei.
+m17_01_Chiama_ultimo_numero.wav,m17,1,chiama ultimo numero,chiama ultimo numero 1
+m17_01_Vivavoce.wav,m17,1,vivavoce,vivavoce.
+m17_01_Rubrica.wav,m17,1,rubrica,rubrica
+m17_01_Rimuovi.wav,m17,1,rimuovi,rimuovi
+m17_01_Vai_nei_preferiti.wav,m17,1,vai nei preferiti,vaj nei preferiti.vai nei preferiti.vai nei preferiti.vai nei preferiti.vai nei preferiti.vai nei preferiti.vai nei preferiti.vai nei preferiti.vai nei preferiti.vai nei preferiti.
+m17_01_Uno.wav,m17,1,uno,uno no
+m17_01_Stop.wav,m17,1,stop,sopra
+m17_01_Apri_rubrica_3.wav,m17,1,apri rubrica 3,apri rubrica
+m17_01_Zero.wav,m17,1,zero,zelo
+m17_01_Richiama.wav,m17,1,richiama,richiamarichiamarichiama
+m17_01_Esci_da_rubrica.wav,m17,1,esci da rubrica,esci dalla rubrica.
+m17_01_Chiama.wav,m17,1,chiama,chiama
+m17_01_Cancella_contatto.wav,m17,1,cancella contatto,cancella contatto.
+m17_01_Sezione.wav,m17,1,sezione,seleziona seleziona seleziona seleziona seleziona seleziona seleziona seleziona seleziona seleziona seleziona seleziona seleziona seleziona seleziona seleziona seleziona seleziona seleziona seleziona
+m17_01_Chiudi.wav,m17,1,chiudi,chiudi
+m17_01_Sette.wav,m17,1,sette,sette
+m17_01_Sopra.wav,m17,1,sopra,sopara...sopara...sopara...sopara...sopara...sopara...sopara...sopara...sopara...sopara...sopara...sopara...sopara...sopara...sopara...
+m17_01_Preferiti.wav,m17,1,preferiti,preferiti
+m17_01_Aggiungi.wav,m17,1,aggiungi,računji
+m17_01_Chiudi_applicazione.wav,m17,1,chiudi applicazione,chiudi applicazione
+m17_01_Nuovo_contatto.wav,m17,1,nuovo contatto,neskaj sem povzela.
+m17_01_Termina_chiamata.wav,m17,1,termina chiamata,termina chiamata
+m17_01_Sali.wav,m17,1,sali,sali
+m17_01_Top.wav,m17,1,top,opta
+m17_01_Scendi.wav,m17,1,scendi,scenti scenti
+m17_01_Sotto.wav,m17,1,sotto,sotto
+m17_01_Vai_nel_registro_chiamate.wav,m17,1,vai nel registro chiamate,vajneva registrova chiamate registrov chiamate registrov chiamate registrov chiamate registrov chiamate registrov chiamate registrov chiamate registrov chiamate registrov chiamate registro
+m17_01_Fai_una_telefonata.wav,m17,1,fai una telefonata,fai una telefonata
+m17_01_Otto.wav,m17,1,otto,otto
+m17_01_Apri_rubrica_2.wav,m17,1,apri rubrica 2,apri rubrica
+m17_01_Aggiungi_ai_preferiti.wav,m17,1,aggiungi ai preferiti,a pripočeti na prihajanih.
+m17_01_Muto.wav,m17,1,muto,muto
+m17_01_Tre.wav,m17,1,tre,tre'
+m17_01_Chiudi_rubrica.wav,m17,1,chiudi rubrica,chiudi rubrica.
+m17_01_Salva.wav,m17,1,salva,salve
+m17_01_Mali.wav,m17,1,mali,mali
+m17_01_Due.wav,m17,1,due,due
+m17_01_Muovi.wav,m17,1,muovi,muovi ti
+m17_01_Terminare.wav,m17,1,terminare,terminare terminare terminare terminare terminare terminare terminare terminare terminare terminare terminare terminare terminare terminare terminare terminare terminare terminare terminare terminare terminare terminare terminare terminare terminare terminare terminare terminare terminare terminare
+m17_01_Vai_alla_tastiera.wav,m17,1,vai alla tastiera,vaj alla stella esistente vaj alla tastiera principale 1
+m17_03_Zelo.wav,m17,1,zelo,zero
+m17_03_Chiama_emergenza.wav,m17,1,chiama emergenza,chiama emergenza
+m17_03_Attiva_vivavoce.wav,m17,1,attiva vivavoce,apri rubrica attiva vivavoce
+m17_03_Cancella_contatto.wav,m17,1,cancella contatto,cancella contatto.
+m17_03_Apri.wav,m17,1,apri,apri
+m17_03_Sotto.wav,m17,1,sotto,sotto
+m17_03_Vivavoce.wav,m17,1,vivavoce,vivavoce
+m17_03_Bue.wav,m17,1,bue,buebuebuebuebuebuebuebuebuebuebuebuebuebuebuebuebuebuebuebuebuebuebuebuebuebuebuebuebuebue
+m17_03_Tra.wav,m17,1,tra,tra
+m17_03_Muovi.wav,m17,1,muovi,muovi
+m17_03_Seleziona.wav,m17,1,seleziona,selezion
+m17_03_Disattiva_vivavoce.wav,m17,1,disattiva vivavoce,disattiva vivavoce
+m17_03_Vai_alla_pagina_principale.wav,m17,1,vai alla pagina principale,vajala prima pagina vajala pagina principale.
+m17_03_Salva.wav,m17,1,salva,salva
+m17_03_Chiudi.wav,m17,1,chiudi,chiudi
+m17_03_Nave.wav,m17,1,nave,nave
+m17_03_Chiama.wav,m17,1,chiama,chiama.
+m17_03_Cancella.wav,m17,1,cancella,cancella
+m17_03_Sopra.wav,m17,1,sopra,sopra
+m17_03_Sette.wav,m17,1,sette,sette
+m17_03_Indietro.wav,m17,1,indietro,indietro
+m17_03_Apri_rubrica_1.wav,m17,1,apri rubrica 1,apri rubrica
+m17_03_Chiudi_applicazione.wav,m17,1,chiudi applicazione,chiudi applicazione.
+m17_03_Sezione.wav,m17,1,sezione,sezione.sezione.sezione.sezione.sezione.sezione.sezione.sezione.sezione.sezione.sezione.sezione.sezione.sezione.sezione.sezione.sezione.sezione.sezione.sezione.
+m17_03_Chiamata.wav,m17,1,chiamata,chiamata ala data 3
+m17_03_Tastiera.wav,m17,1,tastiera,tastiera tastiera
+m17_03_Uno.wav,m17,1,uno,uno
+m17_03_Scendi.wav,m17,1,scendi,scendi scendi scendi scendi scendi scendi scendi scendi scendi scendi scendi scendi scendi scendi scendi scendi scendi scendi scendi scendi scendi scendi scendi scendi scendi scendi scendi scendi scendi scendi
+m17_03_Scorri_verso_il_basso.wav,m17,1,scorri verso il basso,"skorriamo verso il basso, skorriamo verso il basso, skorriamo verso il basso, skorriamo verso il basso, skorriamo verso il basso, skorriamo verso il basso, skorriamo verso il"
+m17_03_Vai_alla_tastiera.wav,m17,1,vai alla tastiera,vai hovi alla tastiera.
+m17_03_Cancella_tutto.wav,m17,1,cancella tutto,cancella tutto.
+m17_03_Nove.wav,m17,1,nove,none
+m17_03_Raggiungi.wav,m17,1,raggiungi,računji
+m17_03_Sei.wav,m17,1,sei,sei.
+m17_03_Sali.wav,m17,1,sali,sali
+m17_03_Scesi.wav,m17,1,scesi,scesi
+m17_03_Terminare.wav,m17,1,terminare,terminare
+m17_03_Vai_nella_rubrica.wav,m17,1,vai nella rubrica,vaj v rubrica.
+m17_03_Chiudi_rubrica.wav,m17,1,chiudi rubrica,chiudi rubrica
+m17_03_Vai_nel_registro_chiamate.wav,m17,1,vai nel registro chiamate,vaj v registru chvistite.
+m17_03_Stop.wav,m17,1,stop,stop
+m17_03_Zero.wav,m17,1,zero,zero
+m17_03_Apri_rubrica_2.wav,m17,1,apri rubrica 2,apri rubrica
+m17_03_Termina_chiamata.wav,m17,1,termina chiamata,termina chiamata
+m17_03_Fai_una_telefonata.wav,m17,1,fai una telefonata,fai una telefonata.
+m17_03_Rimuovi.wav,m17,1,rimuovi,rimuovi
+m17_03_Rubrica.wav,m17,1,rubrica,rubrica
+m17_03_No.wav,m17,1,no,no
+m17_03_Aggiungi_ai_preferiti.wav,m17,1,aggiungi ai preferiti,aggiungi ai preferiti.
+m17_03_Tre.wav,m17,1,tre,treba je?
+m17_03_Aggiungi.wav,m17,1,aggiungi,ražunji
+m17_03_Deseleziona.wav,m17,1,deseleziona,desele tiguna.
+m17_03_Mali.wav,m17,1,mali,mali mali mali mali mali mali mali mali mali mali mali mali mali mali mali mali mali mali mali mali mali mali mali mali mali mali mali mali mali mali
+m17_03_Cella.wav,m17,1,cella,cella
+m17_03_Scorri_verso_l_alto.wav,m17,1,scorri verso l alto,"zato skrivi v italijski vers, skorri v italijski vers, v latički vers, skorri v latički vers."
+m17_03_Chiama_ultimo_numero.wav,m17,1,chiama ultimo numero,chiama ultimo numero 3
+m17_03_Top.wav,m17,1,top,topa
+m17_03_Esci_da_rubrica.wav,m17,1,esci da rubrica,esli da rubrica.
+m17_03_Nuovo_contatto.wav,m17,1,nuovo contatto,nuovo contatto.
+m17_03_Richiama.wav,m17,1,richiama,richiama
+m17_03_Vai_nei_preferiti.wav,m17,1,vai nei preferiti,vaj ne preferiti.vaj ne preferiti.vaj ne preferiti.vaj ne preferiti.vaj ne preferiti vaj ne preferiti vaj ne preferiti vaj ne preferiti vaj ne preferiti vaj ne preferiti vaj ne preferiti v
+m17_03_Due.wav,m17,1,due,due
+m17_03_Si.wav,m17,1,si,si
+m17_03_Cinque.wav,m17,1,cinque,cinque
+m17_03_Quattro.wav,m17,1,quattro,quattro quattro quattro quattro quattro quattro quattro quattro quattro quattro quattro quattro quattro quattro quattro quattro quattro quattro quattro quattro
+m17_03_Preferiti.wav,m17,1,preferiti,preferiti
+m17_03_Apri_rubrica_3.wav,m17,1,apri rubrica 3,apri rubrica
+m17_03_Muto.wav,m17,1,muto,muto
+m17_03_Otto.wav,m17,1,otto,otto
+m17_04_Vai_nella_rubrica.wav,m17,1,vai nella rubrica,vai nella rubrica
+m17_04_No.wav,m17,1,no,no.
+m17_04_Termina_chiamata.wav,m17,1,termina chiamata,termina chiamata
+m17_04_Scendi.wav,m17,1,scendi,scendi.scendi.scendi.scendi.scendi.scendi.scendi.scendi.scendi.scendi.scendi.scendi.scendi.scendi.scendi.scendi.scendi.scendi.scendi.scendi.
+m17_04_Vai_nel_registro_chiamate.wav,m17,1,vai nel registro chiamate,vai nelos chiamate chiamate chiamate chiamate chiamate chiamate chiamate chiamate chiamate chiamate chiamate chiamate chiamate chiamate chiamate chiamate chiamate chiamate chiam
+m17_04_Sette.wav,m17,1,sette,sette
+m17_04_Rimuovi.wav,m17,1,rimuovi,rimuovi
+m17_04_Rubrica.wav,m17,1,rubrica,rubrica
+m17_04_Seleziona.wav,m17,1,seleziona,seleziona
+m17_04_Sopra.wav,m17,1,sopra,sopra
+m17_04_Sali.wav,m17,1,sali,sali.
+m17_04_Zero.wav,m17,1,zero,zero
+m17_04_Stop.wav,m17,1,stop,to
+m17_04_Raggiungi.wav,m17,1,raggiungi,raggiungi
+m17_04_Mali.wav,m17,1,mali,mali
+m17_04_Fai_una_telefonata.wav,m17,1,fai una telefonata,fai un telefonata.
+m17_04_Aggiungi.wav,m17,1,aggiungi,računji
+m17_04_Chiama_ultimo_numero.wav,m17,1,chiama ultimo numero,chiama ultimo numero 1
+m17_04_Tre.wav,m17,1,tre,tre'
+m17_04_Sotto.wav,m17,1,sotto,sotto
+m17_04_Quattro.wav,m17,1,quattro,quattro quattro quattro quattro quattro quattro quattro quattro quattro quattro quattro quattro quattro quattro quattro quattro quattro quattro quattro quattro
+m17_04_Top.wav,m17,1,top,stop
+m17_04_Si.wav,m17,1,si,si
+m17_04_Attiva_vivavoce.wav,m17,1,attiva vivavoce,attiva vivavoce.
+m17_04_Chiudi.wav,m17,1,chiudi,chiudi
+m17_04_Chiama.wav,m17,1,chiama,chiama.
+m17_04_Cancella_tutto.wav,m17,1,cancella tutto,cancella tutto.
+m17_04_Vai_alla_pagina_principale.wav,m17,1,vai alla pagina principale,vai alla pagina principale.
+m17_04_Due.wav,m17,1,due,due
+m17_04_Richiama.wav,m17,1,richiama,richiama richiama
+m17_04_Salva.wav,m17,1,salva,salva
+m17_04_Chiudi_applicazione.wav,m17,1,chiudi applicazione,chiudi applicazione
+m17_04_Scorri_verso_il_basso.wav,m17,1,scorri verso il basso,scorri verso il basso.
+m17_04_Otto.wav,m17,1,otto,otto
+m17_04_Muto.wav,m17,1,muto,muto
+m17_04_Vai_nei_preferiti.wav,m17,1,vai nei preferiti,vai nei preferiti
+m17_04_Apri_rubrica_1.wav,m17,1,apri rubrica 1,apri rubrica
+m17_04_Muovi.wav,m17,1,muovi,muovi
+m17_04_Apri.wav,m17,1,apri,apri
+m17_04_Esci_da_rubrica.wav,m17,1,esci da rubrica,esli dalla rubrica.
+m17_04_Zelo.wav,m17,1,zelo,zelo
+m17_04_Cinque.wav,m17,1,cinque,cinque
+m17_04_Cella.wav,m17,1,cella,cella
+m17_04_Cancella_contatto.wav,m17,1,cancella contatto,cancella contatto contatto contatto contatto contatto contatto contatto contatto contatto contatto contatto contatto contatto contatto contatto contatto contatto contatto contatto contatto contatto contatto contatto contatto contatto contatto contatto contatto cont
+m17_04_Vivavoce.wav,m17,1,vivavoce,vivavoce
+m17_04_Apri_rubrica_2.wav,m17,1,apri rubrica 2,apri rubrica
+m17_04_Terminare.wav,m17,1,terminare,terminare
+m17_04_Bue.wav,m17,1,bue,bue
+m17_04_Tra.wav,m17,1,tra,tra
+m17_04_Chiudi_rubrica.wav,m17,1,chiudi rubrica,chiudi rubrica 5 rubrica
+m17_04_Aggiungi_ai_preferiti.wav,m17,1,aggiungi ai preferiti,agiunjati v svojih preferiti.
+m17_04_Cancella.wav,m17,1,cancella,cancella.
+m17_04_Nave.wav,m17,1,nave,nave
+m17_04_Deseleziona.wav,m17,1,deseleziona,deseleziona
+m17_04_Chiama_emergenza.wav,m17,1,chiama emergenza,chiama emergenza.
+m17_04_Preferiti.wav,m17,1,preferiti,preferiti
+m17_04_Apri_rubrica_3.wav,m17,1,apri rubrica 3,apri rubrica
+m17_04_Disattiva_vivavoce.wav,m17,1,disattiva vivavoce,disattiva vivavoce.
+m17_04_Scesi.wav,m17,1,scesi,scesi
+m17_04_Indietro.wav,m17,1,indietro,indietro
+m17_04_Chiamata.wav,m17,1,chiamata,chiamata chiamata
+m17_04_Tastiera.wav,m17,1,tastiera,tastiera
+m17_04_Scorri_verso_l_alto.wav,m17,1,scorri verso l alto,scorri verso l alto
+m17_04_Uno.wav,m17,1,uno,unounounouno uno uno uno uno uno uno uno uno uno uno uno uno uno uno uno uno uno uno uno uno uno uno uno uno uno uno uno uno uno uno uno uno uno uno uno uno uno uno uno uno uno uno uno uno uno uno uno uno uno uno uno uno uno uno uno uno
+m17_04_Nuovo_contatto.wav,m17,1,nuovo contatto,nuovo contatto.
+m17_04_Sei.wav,m17,1,sei,sei
+m17_04_Sezione.wav,m17,1,sezione,seleziona sezione
+m17_04_Nove.wav,m17,1,nove,nove
+m17_04_Vai_alla_tastiera.wav,m17,1,vai alla tastiera,vai alla tastiera.vai alla tastiera.vai alla tastiera.vai alla tastiera.vai alla tastiera.vai alla tastiera.vai alla tastiera.vai alla tastiera.vai alla tastiera.vai alla tastiera.
+f06_04_Seleziona.wav,f06,1,seleziona,seleziona
+f06_04_Quattro.wav,f06,1,quattro,sada se so...
+f06_04_Vai_nel_registro_chiamate.wav,f06,1,vai nel registro chiamate,vai neliju strugama
+f06_04_Vai_nella_rubrica.wav,f06,1,vai nella rubrica,vai nella rubrica
+f06_04_Top.wav,f06,1,top,no
+f06_04_Apri.wav,f06,1,apri,apri
+f06_04_Apri_rubrica_2.wav,f06,1,apri rubrica 2,apri rubrica 3
+f06_04_Vai_alla_pagina_principale.wav,f06,1,vai alla pagina principale,vai alla pagina principale
+f06_04_Tre.wav,f06,1,tre,trevligare.
+f06_04_Zelo.wav,f06,1,zelo,zelo
+f06_04_Scorri_verso_il_basso.wav,f06,1,scorri verso il basso,scorri verso il basso
+f06_04_Chiudi_rubrica.wav,f06,1,chiudi rubrica,chiudi rubrica
+f06_04_Cinque.wav,f06,1,cinque,cinque
+f06_04_Nave.wav,f06,1,nave,nave
+f06_04_Chiudi_applicazione.wav,f06,1,chiudi applicazione,chiudi applicazione.
+f06_04_Sopra.wav,f06,1,sopra,sopračite
+f06_04_Sette.wav,f06,1,sette,sette
+f06_04_Due.wav,f06,1,due,due
+f06_04_Attiva_vivavoce.wav,f06,1,attiva vivavoce,attiva vivavoce 3.1.1.1
+f06_04_Disattiva_vivavoce.wav,f06,1,disattiva vivavoce,disattiva vivavoce
+f06_04_Apri_rubrica_3.wav,f06,1,apri rubrica 3,apri rubrica 3.1.2011
+f06_04_Muovi.wav,f06,1,muovi,muovi
+f06_04_Rubrica.wav,f06,1,rubrica,rubrica
+f06_04_Chiama_emergenza.wav,f06,1,chiama emergenza,chiama e vijagizma
+f06_04_Rimuovi.wav,f06,1,rimuovi,rimu vivavi
+f06_04_Chiama_ultimo_numero.wav,f06,1,chiama ultimo numero,chiama ultimo numero 1
+f06_04_Raggiungi.wav,f06,1,raggiungi,ražunji
+f06_04_Aggiungi.wav,f06,1,aggiungi,aggiungi
+f06_04_Salva.wav,f06,1,salva,salva salva
+f06_04_Nuovo_contatto.wav,f06,1,nuovo contatto,nuovo contatto
+f06_04_Nove.wav,f06,1,nove,nove
+f06_04_Vai_nei_preferiti.wav,f06,1,vai nei preferiti,vai naivru sve liči
+f06_04_Richiama.wav,f06,1,richiama,chiama.
+f06_04_Sotto.wav,f06,1,sotto,sotto
+f06_04_Sali.wav,f06,1,sali,sali
+f06_04_Vivavoce.wav,f06,1,vivavoce,vivavoce
+f06_04_Cancella_contatto.wav,f06,1,cancella contatto,cancella contatto.
+f06_04_Deseleziona.wav,f06,1,deseleziona,deseleziona
+f06_04_Cancella.wav,f06,1,cancella,cancella
+f06_04_Scorri_verso_l_alto.wav,f06,1,scorri verso l alto,scorri verso l alto
+f06_04_Cella.wav,f06,1,cella,cella
+f06_04_No.wav,f06,1,no,no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no no
+f06_04_Scendi.wav,f06,1,scendi,scendi
+f06_04_Sei.wav,f06,1,sei,sej
+f06_04_Uno.wav,f06,1,uno,uno
+f06_04_Zero.wav,f06,1,zero,zero
+f06_04_Stop.wav,f06,1,stop,so.
+f06_04_Terminare.wav,f06,1,terminare,terminare
+f06_04_Sezione.wav,f06,1,sezione,se stivu nekako
+f06_04_Fai_una_telefonata.wav,f06,1,fai una telefonata,fai una telefonat
+f06_04_Aggiungi_ai_preferiti.wav,f06,1,aggiungi ai preferiti,aggiungi ai preferiti
+f06_04_Chiamata.wav,f06,1,chiamata,chiamata
+f06_04_Cancella_tutto.wav,f06,1,cancella tutto,cancella tutto
+f06_04_Mali.wav,f06,1,mali,mali
+f06_04_Preferiti.wav,f06,1,preferiti,preferiti.
+f06_04_Indietro.wav,f06,1,indietro,indietro
+f06_04_Otto.wav,f06,1,otto,otto
+f06_04_Muto.wav,f06,1,muto,muto
+f06_04_Esci_da_rubrica.wav,f06,1,esci da rubrica,esci da rubriki
+f06_04_Termina_chiamata.wav,f06,1,termina chiamata,termina chiamata
+f06_04_Tra.wav,f06,1,tra,traj
+f06_04_Bue.wav,f06,1,bue,bue
+f06_04_Si.wav,f06,1,si,si
+f06_04_Chiama.wav,f06,1,chiama,chiama.
+f06_04_Vai_alla_tastiera.wav,f06,1,vai alla tastiera,vai alla tastiera
+f06_04_Apri_rubrica_1.wav,f06,1,apri rubrica 1,apri rubrica
+f06_04_Chiudi.wav,f06,1,chiudi,chiudi
+f06_04_Scesi.wav,f06,1,scesi,scesi
+f06_04_Tastiera.wav,f06,1,tastiera,tastiera 3
+f06_03_Seleziona.wav,f06,1,seleziona,seleziona
+f06_03_Indietro.wav,f06,1,indietro,indietro
+f06_03_Scesi.wav,f06,1,scesi,scesi
+f06_03_Termina_chiamata.wav,f06,1,termina chiamata,termina chiamata
+f06_03_Stop.wav,f06,1,stop,stop
+f06_03_Chiamata.wav,f06,1,chiamata,chva na cestu.
+f06_03_Apri_rubrica_1.wav,f06,1,apri rubrica 1,apri rubrica 3.1.1.1
+f06_03_Zero.wav,f06,1,zero,zero
+f06_03_Sali.wav,f06,1,sali,sali
+f06_03_Disattiva_vivavoce.wav,f06,1,disattiva vivavoce,disattiva vivavoce
+f06_03_Tastiera.wav,f06,1,tastiera,tastiera
+f06_03_Vai_nei_preferiti.wav,f06,1,vai nei preferiti,vai nei preferiti
+f06_03_Rimuovi.wav,f06,1,rimuovi,rimuovi
+f06_03_Rubrica.wav,f06,1,rubrica,rubri
+f06_03_Cancella_tutto.wav,f06,1,cancella tutto,cancella tutto.
+f06_03_Scorri_verso_l_alto.wav,f06,1,scorri verso l alto,scorri verso lato
+f06_03_Tre.wav,f06,1,tre,tre' re'
+f06_03_Otto.wav,f06,1,otto,otto
+f06_03_Muto.wav,f06,1,muto,muto
+f06_03_Vai_nella_rubrica.wav,f06,1,vai nella rubrica,vajnina rubrica
+f06_03_Top.wav,f06,1,top,no
+f06_03_Cella.wav,f06,1,cella,ceva
+f06_03_Vivavoce.wav,f06,1,vivavoce,vivavoce
+f06_03_Raggiungi.wav,f06,1,raggiungi,raziunj
+f06_03_Esci_da_rubrica.wav,f06,1,esci da rubrica,аше за рубик
+f06_03_Cinque.wav,f06,1,cinque,cinque
+f06_03_Due.wav,f06,1,due,due
+f06_03_Quattro.wav,f06,1,quattro,vatno
+f06_03_Deseleziona.wav,f06,1,deseleziona,desele sezioni.desele sezioni.
+f06_03_Cancella.wav,f06,1,cancella,cancella
+f06_03_Scorri_verso_il_basso.wav,f06,1,scorri verso il basso,scorri verso il basso
+f06_03_Mali.wav,f06,1,mali,mali
+f06_03_Nuovo_contatto.wav,f06,1,nuovo contatto,nuovo contatto
+f06_03_Sotto.wav,f06,1,sotto,sotto
+f06_03_Attiva_vivavoce.wav,f06,1,attiva vivavoce,attiva vivavoce vivavoce
+f06_03_Aggiungi.wav,f06,1,aggiungi,računji
+f06_03_Nave.wav,f06,1,nave,нахаве
+f06_03_Si.wav,f06,1,si,si
+f06_03_Vai_alla_pagina_principale.wav,f06,1,vai alla pagina principale,vai alla pagina principale 3
+f06_03_Fai_una_telefonata.wav,f06,1,fai una telefonata,fai una telefonata.
+f06_03_Richiama.wav,f06,1,richiama,richiama
+f06_03_Apri_rubrica_3.wav,f06,1,apri rubrica 3,apri rubrica 3
+f06_03_Bue.wav,f06,1,bue,bue
+f06_03_Chiama_emergenza.wav,f06,1,chiama emergenza,javno imamo evo dizve
+f06_03_Vai_alla_tastiera.wav,f06,1,vai alla tastiera,vai alla tastiera
+f06_03_Aggiungi_ai_preferiti.wav,f06,1,aggiungi ai preferiti,aggiungi ai preferiti.
+f06_03_Tra.wav,f06,1,tra,tra.tra.tra.tra.tra.tra.tra.tra.tra.tra.tra.tra.tra.tra.tra.tra.tra.tra.tra.tra.tra.tra.tra.tra.tra.tra.tra.tra.tra.tra.
+f06_03_Salva.wav,f06,1,salva,salva
+f06_03_Zelo.wav,f06,1,zelo,zelo
+f06_03_Chiama.wav,f06,1,chiama,chiama.
+f06_03_Apri.wav,f06,1,apri,apri
+f06_03_Terminare.wav,f06,1,terminare,terminare
+f06_03_Muovi.wav,f06,1,muovi,muovi
+f06_03_Chiudi.wav,f06,1,chiudi,chiudi
+f06_03_No.wav,f06,1,no,no
+f06_03_Chiudi_applicazione.wav,f06,1,chiudi applicazione,chiudi applicacije vone
+f06_03_Nove.wav,f06,1,nove,nove
+f06_03_Chiudi_rubrica.wav,f06,1,chiudi rubrica,chiudi rubrica
+f06_03_Cancella_contatto.wav,f06,1,cancella contatto,sestava contatto.
+f06_03_Chiama_ultimo_numero.wav,f06,1,chiama ultimo numero,chiama ultimo numero 1
+f06_03_Sezione.wav,f06,1,sezione,sezione
+f06_03_Sopra.wav,f06,1,sopra,sopra
+f06_03_Vai_nel_registro_chiamate.wav,f06,1,vai nel registro chiamate,vaj neljude registro je mati
+f06_03_Preferiti.wav,f06,1,preferiti,preste riječi
+f06_03_Sette.wav,f06,1,sette,sette
+f06_03_Uno.wav,f06,1,uno,uno
+f06_03_Scendi.wav,f06,1,scendi,scendi
+f06_03_Sei.wav,f06,1,sei,sej
+f06_03_Apri_rubrica_2.wav,f06,1,apri rubrica 2,apri rubrica
+f06_02_Due.wav,f06,1,due,due
+f06_02_Nove.wav,f06,1,nove,nove
+f06_02_Quattro.wav,f06,1,quattro,quattro
+f06_02_Vai_nei_preferiti.wav,f06,1,vai nei preferiti,vai nei preferiti
+f06_02_Aggiungi.wav,f06,1,aggiungi,raziunji.
+f06_02_Chiudi_rubrica.wav,f06,1,chiudi rubrica,chiudi rubrica
+f06_02_Apri_rubrica_2.wav,f06,1,apri rubrica 2,apri rubrica
+f06_02_Deseleziona.wav,f06,1,deseleziona,desele se zuna
+f06_02_Chiama_ultimo_numero.wav,f06,1,chiama ultimo numero,chiama ultimo numero 1
+f06_02_Tre.wav,f06,1,tre,tre' 3
+f06_02_Preferiti.wav,f06,1,preferiti,preferiči
+f06_02_Aggiungi_ai_preferiti.wav,f06,1,aggiungi ai preferiti,preferiče
+f06_02_Cinque.wav,f06,1,cinque,si
+f06_02_Vai_nel_registro_chiamate.wav,f06,1,vai nel registro chiamate,vajno u listu chiamate.
+f06_02_Top.wav,f06,1,top,no
+f06_02_Richiama.wav,f06,1,richiama,richiama rikiai 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+f06_02_Sopra.wav,f06,1,sopra,sopra
+f06_02_Sette.wav,f06,1,sette,sette
+f06_02_Nave.wav,f06,1,nave,nave
+f06_02_Rimuovi.wav,f06,1,rimuovi,rimuovi
+f06_02_Rubrica.wav,f06,1,rubrica,rubrička
+f06_02_Salva.wav,f06,1,salva,salva
+f06_02_Terminare.wav,f06,1,terminare,terminare
+f06_02_Vai_alla_pagina_principale.wav,f06,1,vai alla pagina principale,vai alla pagina principale
+f06_02_Attiva_vivavoce.wav,f06,1,attiva vivavoce,attiva vivavoce.
+f06_02_Nuovo_contatto.wav,f06,1,nuovo contatto,nuovo contatto
+f06_02_Muovi.wav,f06,1,muovi,muovi
+f06_02_Chiudi_applicazione.wav,f06,1,chiudi applicazione,chiudi applicazione
+f06_02_Vai_nella_rubrica.wav,f06,1,vai nella rubrica,vai nella rubrica
+f06_02_Sotto.wav,f06,1,sotto,sotto
+f06_02_Fai_una_telefonata.wav,f06,1,fai una telefonata,vai u naše prelače
+f06_02_Apri.wav,f06,1,apri,apri
+f06_02_Apri_rubrica_3.wav,f06,1,apri rubrica 3,apri rubrica
+f06_02_Chiama_emergenza.wav,f06,1,chiama emergenza,chiada immuža
+f06_02_Zelo.wav,f06,1,zelo,zelo
+f06_02_Esci_da_rubrica.wav,f06,1,esci da rubrica,esci da rubrika
+f06_02_Muto.wav,f06,1,muto,muto
+f06_02_Otto.wav,f06,1,otto,otto
+f06_02_Chiamata.wav,f06,1,chiamata,dragone chiamate
+f06_02_Uno.wav,f06,1,uno,uno uno uno uno uno uno uno uno uno uno uno uno uno uno uno uno uno uno uno uno uno uno uno uno uno uno uno uno uno uno uno uno uno uno uno uno uno uno uno uno uno uno uno uno uno uno uno uno uno uno uno uno uno uno uno uno uno uno uno uno
+f06_02_No.wav,f06,1,no,no
+f06_02_Vai_alla_tastiera.wav,f06,1,vai alla tastiera,vai alla tastiera
+f06_02_Sei.wav,f06,1,sei,sei
+f06_02_Indietro.wav,f06,1,indietro,indice
+f06_02_Sezione.wav,f06,1,sezione,se stivu na
+f06_02_Raggiungi.wav,f06,1,raggiungi,raženji
+f06_02_Mali.wav,f06,1,mali,mali
+f06_02_Tastiera.wav,f06,1,tastiera,tastiera
+f06_02_Cella.wav,f06,1,cella,cella
+f06_02_Scendi.wav,f06,1,scendi,scendi
+f06_02_Termina_chiamata.wav,f06,1,termina chiamata,termina chiamata.
+f06_02_Apri_rubrica_1.wav,f06,1,apri rubrica 1,apri rubrica
+f06_02_Vivavoce.wav,f06,1,vivavoce,vivavoce
+f06_02_Bue.wav,f06,1,bue,bue
+f06_02_Tra.wav,f06,1,tra,tra
+f06_02_Zero.wav,f06,1,zero,zero
+f06_02_Si.wav,f06,1,si,si
+f06_02_Scorri_verso_l_alto.wav,f06,1,scorri verso l alto,scorri verso l alto
+f06_02_Stop.wav,f06,1,stop,stop
+f06_02_Cancella_tutto.wav,f06,1,cancella tutto,cancella tutto.
+f06_02_Chiama.wav,f06,1,chiama,chiama
+f06_02_Sali.wav,f06,1,sali,sali
+f06_02_Cancella.wav,f06,1,cancella,cancella
+f06_02_Chiudi.wav,f06,1,chiudi,chiuzi
+f06_02_Scesi.wav,f06,1,scesi,scesi
+f06_02_Scorri_verso_il_basso.wav,f06,1,scorri verso il basso,scalta vivi da su ima basa
+f06_02_Disattiva_vivavoce.wav,f06,1,disattiva vivavoce,disattiva vivi vivi vivi vivi vivi vivi vivi vivi vivi vivi vivi vivi vivi vivi vivi vivi vivi vivi vivi vivi vivi vivi vivi vivi vivi vivi vivi vivi viv
+f06_02_Cancella_contatto.wav,f06,1,cancella contatto,cancella contatto.
+f06_02_Seleziona.wav,f06,1,seleziona,seleziona
+f06_05_Vai_alla_pagina_principale.wav,f06,1,vai alla pagina principale,vai alla pagina tipa
+f06_05_Richiama.wav,f06,1,richiama,richiande
+f06_05_Scendi.wav,f06,1,scendi,cello
+f06_05_Tre.wav,f06,1,tre,trez.
+f06_05_Sezione.wav,f06,1,sezione,sefce una
+f06_05_Top.wav,f06,1,top,to.
+f06_05_Aggiungi_ai_preferiti.wav,f06,1,aggiungi ai preferiti,raggiungi ai preferiti
+f06_05_Mali.wav,f06,1,mali,mali
+f06_05_Disattiva_vivavoce.wav,f06,1,disattiva vivavoce,disattiva vivavoce 3. sve sve sve sve sve sve sve sve sve sve sve sve sve sve sve sve sve sve sve sve sve sve sve sve sve sve
+f06_05_Nuovo_contatto.wav,f06,1,nuovo contatto,nuovo contatto
+f06_05_Due.wav,f06,1,due,due
+f06_05_Otto.wav,f06,1,otto,ok
+f06_05_Aggiungi.wav,f06,1,aggiungi,raziunite
+f06_05_Cella.wav,f06,1,cella,cella
+f06_05_Muto.wav,f06,1,muto,mutoquattro 3
+f06_05_Chiama_emergenza.wav,f06,1,chiama emergenza,chiama emergenza 2. chr. p. 1. chr. 1. chr. 2. chr. 1. chr. 2. chr. 1. chr. 2. chr. 1. chr. 2. chr. 1. chr
+f06_05_Cancella_contatto.wav,f06,1,cancella contatto,cancella contatto.
+f06_05_Raggiungi.wav,f06,1,raggiungi,raggiunge
+f06_05_Apri_rubrica_3.wav,f06,1,apri rubrica 3,apri rubrica 2.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.
+f06_05_Vai_alla_tastiera.wav,f06,1,vai alla tastiera,vai alla tastiera
+f06_05_Sali.wav,f06,1,sali,sali
+f06_05_Chiama.wav,f06,1,chiama,chiama.
+f06_05_Chiudi_rubrica.wav,f06,1,chiudi rubrica,sali na poskevoljene u sulo
+f06_05_Chiudi.wav,f06,1,chiudi,chiudi.
+f06_05_Esci_da_rubrica.wav,f06,1,esci da rubrica,indistruksionale concessione concessione concessione concessione concessione concessione concessione concessione concessione concessione concessione concessione concessione concessione concessione concessione concessione concessione
+f06_05_Apri_rubrica_2.wav,f06,1,apri rubrica 2,apri rubrica 3.1
+f06_05_Seleziona.wav,f06,1,seleziona,sezionu
+f06_05_Scorri_verso_l_alto.wav,f06,1,scorri verso l alto,scorri verso l alto
+f06_05_Zero.wav,f06,1,zero,trendi
+f06_05_Stop.wav,f06,1,stop,andeskott.
+f06_05_Scesi.wav,f06,1,scesi,scesi
+f06_05_Tastiera.wav,f06,1,tastiera,tastiera
+f06_05_Cinque.wav,f06,1,cinque,cinque quattro.
+f06_05_Apri_rubrica_1.wav,f06,1,apri rubrica 1,apri rubrica
+f06_05_Termina_chiamata.wav,f06,1,termina chiamata,termina chiamata 3
+f06_05_Fai_una_telefonata.wav,f06,1,fai una telefonata,vai u netavu na apet
+f06_05_Si.wav,f06,1,si,si
+f06_05_Indietro.wav,f06,1,indietro,indietro
+f06_05_Deseleziona.wav,f06,1,deseleziona,desele se seleziona
+f06_05_Sopra.wav,f06,1,sopra,stop
+f06_05_Cancella_tutto.wav,f06,1,cancella tutto,cancella tutto tutto tutto tutto tutto tutto tutto tutto tutto tutto tutto tutto tutto tutto tutto tutto tutto tutto tutto tutto tutto tutto tutto tutto tutto tutto tutto tutto tutto tutto tutto tutto tutto tutto tutto tutto tutto tutto tutto tutto tutto tutto tutto tutto tutto tutto tutto tutto tutto tutto tutto tutto tutto tutto tutto tutto tutto
+f06_05_Quattro.wav,f06,1,quattro,mato
+f06_05_Preferiti.wav,f06,1,preferiti,prestavite
+f06_05_Nove.wav,f06,1,nove,nove
+f06_05_Sette.wav,f06,1,sette,sette
+f06_05_Uno.wav,f06,1,uno,uno
+f06_05_Chiamata.wav,f06,1,chiamata,chiamata.com
+f06_05_Sei.wav,f06,1,sei,sei
+f06_05_Attiva_vivavoce.wav,f06,1,attiva vivavoce,attiva vivavoce.
+f06_05_Vai_nella_rubrica.wav,f06,1,vai nella rubrica,vaj ne v rubriki
+f06_05_Vai_nel_registro_chiamate.wav,f06,1,vai nel registro chiamate,vaj nelijev registrujte ili chiamate
+f06_05_Terminare.wav,f06,1,terminare,terminare
+f06_05_No.wav,f06,1,no,no
+f06_05_Vai_nei_preferiti.wav,f06,1,vai nei preferiti,vai nei preferiti preferiti preferiti preferiti preferiti preferiti preferiti preferiti preferiti preferiti preferiti preferiti preferiti preferiti preferiti preferiti preferiti preferiti preferiti preferiti preferiti preferiti preferiti preferiti preferiti preferiti preferiti preferiti prefer
+f06_05_Muovi.wav,f06,1,muovi,mali?
+f06_05_Scorri_verso_il_basso.wav,f06,1,scorri verso il basso,scorri verso il basso
+f06_05_Apri.wav,f06,1,apri,apetite.
+f06_05_Zelo.wav,f06,1,zelo,zrebo
+f06_05_Salva.wav,f06,1,salva,salva ultimo numero 1 numero 2 numero 3 numero 4 numero 5 numero 6 numero 7 numero 8 numero 9 numero 10 numero 11 numero 12 numero 13 numero 14 numero 15 numero 16 numero 16 numero 17 numero 18 numero 19 numero 20 numero 20 numero 21 numero 21 numero 21 numero 21 numero 21 numero 21
+f06_05_Cancella.wav,f06,1,cancella,cancella
+f06_05_Nave.wav,f06,1,nave,nave
+f06_05_Chiama_ultimo_numero.wav,f06,1,chiama ultimo numero,chiama ultimo numero 3
+f06_05_Tra.wav,f06,1,tra,tra
+f06_05_Bue.wav,f06,1,bue,bue
+f06_05_Vivavoce.wav,f06,1,vivavoce,vivavoce
+f06_05_Chiudi_applicazione.wav,f06,1,chiudi applicazione,chi usi applicazione 2.
+f06_05_Sotto.wav,f06,1,sotto,soprano 3
+f06_05_Rimuovi.wav,f06,1,rimuovi,rimuovi
+f06_05_Rubrica.wav,f06,1,rubrica,rubrica
+f06_01_Apri_rubrica_2.wav,f06,1,apri rubrica 2,apri rubika
+f06_01_Bue.wav,f06,1,bue,bue
+f06_01_Fai_una_telefonata.wav,f06,1,fai una telefonata,vai una telefonata
+f06_01_Tra.wav,f06,1,tra,tra
+f06_01_Esci_da_rubrica.wav,f06,1,esci da rubrica,esle da rubika
+f06_01_Cancella.wav,f06,1,cancella,cancella
+f06_01_Chiudi_applicazione.wav,f06,1,chiudi applicazione,chiudi applicazione 1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.
+f06_01_Preferiti.wav,f06,1,preferiti,preferiči
+f06_01_Scendi.wav,f06,1,scendi,scendi
+f06_01_Sezione.wav,f06,1,sezione,sezce obroče.
+f06_01_Chiama_ultimo_numero.wav,f06,1,chiama ultimo numero,chiama ultimo numero 1
+f06_01_Nove.wav,f06,1,nove,nave
+f06_01_Vai_nel_registro_chiamate.wav,f06,1,vai nel registro chiamate,vai nelijucu chiamate
+f06_01_Vivavoce.wav,f06,1,vivavoce,diso voce
+f06_01_Cella.wav,f06,1,cella,ceva
+f06_01_Chiudi_rubrica.wav,f06,1,chiudi rubrica,indira da istai
+f06_01_Si.wav,f06,1,si,si
+f06_01_Vai_nei_preferiti.wav,f06,1,vai nei preferiti,vai na preferiti
+f06_01_Chiama_emergenza.wav,f06,1,chiama emergenza,chiama ezzesca
+f06_01_Vai_alla_pagina_principale.wav,f06,1,vai alla pagina principale,vai alla pagina principale
+f06_01_Uno.wav,f06,1,uno,uno
+f06_01_Chiama.wav,f06,1,chiama,chiama?chiama?chiama?chiama?chiama?chiama?chiama?chiama?chiama?chiama?chiama?chiama?chiama?chiama?chiama?chiama?chiama?chiama?chiama?chiama?
+f06_01_Chiudi.wav,f06,1,chiudi,chiudi
+f06_01_Vai_nella_rubrica.wav,f06,1,vai nella rubrica,vai nella rubrica
+f06_01_Tastiera.wav,f06,1,tastiera,tastiera
+f06_01_Zelo.wav,f06,1,zelo,zelo
+f06_01_Sei.wav,f06,1,sei,sei
+f06_01_Apri.wav,f06,1,apri,apri
+f06_01_Apri_rubrica_3.wav,f06,1,apri rubrica 3,apri rubrica 2
+f06_01_No.wav,f06,1,no,no
+f06_01_Chiamata.wav,f06,1,chiamata,chiamata.
+f06_01_Nave.wav,f06,1,nave,nave
+f06_01_Scorri_verso_il_basso.wav,f06,1,scorri verso il basso,scorri verso il basa
+f06_01_Nuovo_contatto.wav,f06,1,nuovo contatto,nuovo contatto
+f06_01_Terminare.wav,f06,1,terminare,terminare
+f06_01_Scesi.wav,f06,1,scesi,scesi
+f06_01_Indietro.wav,f06,1,indietro,india uttryck
+f06_01_Disattiva_vivavoce.wav,f06,1,disattiva vivavoce,disattiva vivavoce
+f06_01_Termina_chiamata.wav,f06,1,termina chiamata,termina chammat.
+f06_01_Cinque.wav,f06,1,cinque,cinque quattro.
+f06_01_Raggiungi.wav,f06,1,raggiungi,ražu unge
+f06_01_Scorri_verso_l_alto.wav,f06,1,scorri verso l alto,scorri da ima salato
+f06_01_Mali.wav,f06,1,mali,mali
+f06_01_Sopra.wav,f06,1,sopra,sopra
+f06_01_Sette.wav,f06,1,sette,sette
+f06_01_Quattro.wav,f06,1,quattro,quattro quattro quattro quattro quattro quattro quattro quattro quattro quattro quattro quattro quattro quattro quattro quattro quattro quattro quattro quattro
+f06_01_Muto.wav,f06,1,muto,muto
+f06_01_Otto.wav,f06,1,otto,otto
+f06_01_Vai_alla_tastiera.wav,f06,1,vai alla tastiera,vai alla alla utro.
+f06_01_Aggiungi_ai_preferiti.wav,f06,1,aggiungi ai preferiti,ražunjate preferite
+f06_01_Sali.wav,f06,1,sali,ali
+f06_01_Cancella_tutto.wav,f06,1,cancella tutto,cancella tutto
+f06_01_Muovi.wav,f06,1,muovi,muovi
+f06_01_Deseleziona.wav,f06,1,deseleziona,desele se una
+f06_01_Seleziona.wav,f06,1,seleziona,se razsevolite
+f06_01_Due.wav,f06,1,due,due
+f06_01_Attiva_vivavoce.wav,f06,1,attiva vivavoce,attiva vivavoce vivavoce
+f06_01_Salva.wav,f06,1,salva,salva
+f06_01_Cancella_contatto.wav,f06,1,cancella contatto,cancella contatto 2. contatto 3. contatto 4. contatto 5. contatto 6. contatto 7. contatto 8. contatto 9. contatto 10. contatto 11. contatto 12. contatto 13. contatto 14. contatto 15. cont
+f06_01_Richiama.wav,f06,1,richiama,chiama chiama chiama chiama chiama chiama chiama chiama chiama chiama chiama chiama chiama chiama chiama chiama chiama chiama chiama chiama ch
+f06_01_Apri_rubrica_1.wav,f06,1,apri rubrica 1,apri rubrica
+f06_01_Tre.wav,f06,1,tre,tre' 3.
+f06_01_Sotto.wav,f06,1,sotto,sopra
+f06_01_Rimuovi.wav,f06,1,rimuovi,rimuovi skupi nekaj.
+f06_01_Rubrica.wav,f06,1,rubrica,rubrikert
+f06_01_Aggiungi.wav,f06,1,aggiungi,aggiungi
+f06_01_Stop.wav,f06,1,stop,stop
+f06_01_Top.wav,f06,1,top,no.
+f06_01_Zero.wav,f06,1,zero,zero
+f06_06_Indietro.wav,f06,1,indietro,indietro
+f06_06_Disattiva_vivavoce.wav,f06,1,disattiva vivavoce,disattiva vivavoce 3.1.2014
+f06_06_Vai_nella_rubrica.wav,f06,1,vai nella rubrica,vai nella rubrica
+f06_06_Scendi.wav,f06,1,scendi,scesi ne...
+f06_06_Chiamata.wav,f06,1,chiamata,chemata.
+f06_06_Nove.wav,f06,1,nove,nove
+f06_06_Cella.wav,f06,1,cella,ceva
+f06_06_Tastiera.wav,f06,1,tastiera,tastiera
+f06_06_Chiama_ultimo_numero.wav,f06,1,chiama ultimo numero,chiama ultimo numero 2
+f06_06_Preferiti.wav,f06,1,preferiti,preferiti
+f06_06_Aggiungi_ai_preferiti.wav,f06,1,aggiungi ai preferiti,aggiungi ai preferiti
+f06_06_Scesi.wav,f06,1,scesi,scesi
+f06_06_Deseleziona.wav,f06,1,deseleziona,deseleziona
+f06_06_Scorri_verso_l_alto.wav,f06,1,scorri verso l alto,scorri verso l alto
+f06_06_Chiama.wav,f06,1,chiama,chiada
+f06_06_Vivavoce.wav,f06,1,vivavoce,vivavoce
+f06_06_Termina_chiamata.wav,f06,1,termina chiamata,termina chiamata
+f06_06_Due.wav,f06,1,due,due
+f06_06_Cancella_tutto.wav,f06,1,cancella tutto,cancella tutto.
+f06_06_Nave.wav,f06,1,nave,novezit
+f06_06_Chiudi.wav,f06,1,chiudi,chiudi
+f06_06_Terminare.wav,f06,1,terminare,terminare
+f06_06_Zelo.wav,f06,1,zelo,zelo
+f06_06_Top.wav,f06,1,top,top
+f06_06_Apri.wav,f06,1,apri,apri
+f06_06_Esci_da_rubrica.wav,f06,1,esci da rubrica,esci da rubrica
+f06_06_Apri_rubrica_1.wav,f06,1,apri rubrica 1,apri rubrica
+f06_06_Sezione.wav,f06,1,sezione,sezione
+f06_06_Vai_nei_preferiti.wav,f06,1,vai nei preferiti,vai na vrste riječi
+f06_06_Tre.wav,f06,1,tre,trez.
+f06_06_Cancella.wav,f06,1,cancella,cancella
+f06_06_Aggiungi.wav,f06,1,aggiungi,aggiungi
+f06_06_Fai_una_telefonata.wav,f06,1,fai una telefonata,aparela telefonu
+f06_06_Cinque.wav,f06,1,cinque,cestva
+f06_06_Apri_rubrica_2.wav,f06,1,apri rubrica 2,apro rubrica 2
+f06_06_Cancella_contatto.wav,f06,1,cancella contatto,cancella contatt
+f06_06_Vai_nel_registro_chiamate.wav,f06,1,vai nel registro chiamate,vai nelivisite u chermati
+f06_06_Muto.wav,f06,1,muto,muguta
+f06_06_Tra.wav,f06,1,tra,tukajte
+f06_06_Bue.wav,f06,1,bue,bue
+f06_06_Sette.wav,f06,1,sette,sette
+f06_06_Sopra.wav,f06,1,sopra,sopra
+f06_06_Otto.wav,f06,1,otto,otto
+f06_06_Scorri_verso_il_basso.wav,f06,1,scorri verso il basso,scorri verso il basso
+f06_06_Rubrica.wav,f06,1,rubrica,rubrica
+f06_06_Rimuovi.wav,f06,1,rimuovi,rimuovi
+f06_06_Chiudi_rubrica.wav,f06,1,chiudi rubrica,chiude rubrica
+f06_06_Mali.wav,f06,1,mali,mali
+f06_06_Richiama.wav,f06,1,richiama,richiama
+f06_06_Attiva_vivavoce.wav,f06,1,attiva vivavoce,attiva vivavoce
+f06_06_Si.wav,f06,1,si,si
+f06_06_Raggiungi.wav,f06,1,raggiungi,raggiungi
+f06_06_Sei.wav,f06,1,sei,sej
+f06_06_Stop.wav,f06,1,stop,stop
+f06_06_Vai_alla_pagina_principale.wav,f06,1,vai alla pagina principale,vai alla pagina principale
+f06_06_Apri_rubrica_3.wav,f06,1,apri rubrica 3,apri rubrica 3
+f06_06_Quattro.wav,f06,1,quattro,quattro
+f06_06_Chiudi_applicazione.wav,f06,1,chiudi applicazione,chiudi applicazione
+f06_06_Zero.wav,f06,1,zero,zero
+f06_06_Sotto.wav,f06,1,sotto,sotto
+f06_06_Uno.wav,f06,1,uno,uno
+f06_06_Nuovo_contatto.wav,f06,1,nuovo contatto,nu har vi kontaktat
+f06_06_Seleziona.wav,f06,1,seleziona,ressur.
+f06_06_Salva.wav,f06,1,salva,salva
+f06_06_Chiama_emergenza.wav,f06,1,chiama emergenza,chiama imamo cesto
+f06_06_No.wav,f06,1,no,no
+f06_06_Vai_alla_tastiera.wav,f06,1,vai alla tastiera,vai alla tasti
+f06_06_Sali.wav,f06,1,sali,savej
+f06_06_Muovi.wav,f06,1,muovi,muovi
+m12_06_Sei.wav,m12,1,sei,sei
+m12_06_Terminare.wav,m12,1,terminare,terminare
+m12_06_Scendi.wav,m12,1,scendi,scendi
+m12_06_Quattro.wav,m12,1,quattro,quattro quattro quattro quattro quattro quattro quattro quattro quattro quattro quattro quattro quattro quattro quattro quattro quattro quattro quattro quattro
+m12_06_Scorri_verso_l_alto.wav,m12,1,scorri verso l alto,skoraj v sali v sali v sali v sali v sali v sali v sali v sali v sali v sali v sali v sali v sali v sali v sali v sali v sali v sali v sali
+m12_06_Uno.wav,m12,1,uno,uno uno uno uno uno uno uno uno uno uno uno uno uno uno uno uno uno uno uno uno uno uno uno uno uno uno uno uno uno uno uno uno uno uno uno uno uno uno uno uno uno uno uno uno uno uno uno uno uno uno uno uno uno uno uno uno uno uno uno uno
+m12_06_Cancella_contatto.wav,m12,1,cancella contatto,cancella contatto.
+m12_06_Scesi.wav,m12,1,scesi,si
+m12_06_Attiva_vivavoce.wav,m12,1,attiva vivavoce,attiva vivavoce.
+m12_06_Nove.wav,m12,1,nove,nove
+m12_06_Cancella_tutto.wav,m12,1,cancella tutto,cancella tutto.
+m12_06_Disattiva_vivavoce.wav,m12,1,disattiva vivavoce,disattiva vivavoce.
+m12_06_Aggiungi_ai_preferiti.wav,m12,1,aggiungi ai preferiti,aggiudi ai preferiti.
+m12_06_Apri.wav,m12,1,apri,apet
+m12_06_Aggiungi.wav,m12,1,aggiungi,aggiungi.
+m12_06_Zelo.wav,m12,1,zelo,zelo
+m12_06_Chiama.wav,m12,1,chiama,chiama.
+m12_06_Vai_alla_pagina_principale.wav,m12,1,vai alla pagina principale,vai na pagina picci pala
+m12_06_Vai_alla_tastiera.wav,m12,1,vai alla tastiera,vai alla tasta
+m12_06_Deseleziona.wav,m12,1,deseleziona,tastica di tutto.
+m12_06_Chiudi.wav,m12,1,chiudi,chiudi
+m12_06_Bue.wav,m12,1,bue,bue
+m12_06_Rubrica.wav,m12,1,rubrica,rubrica
+m12_06_Tra.wav,m12,1,tra,tra
+m12_06_Rimuovi.wav,m12,1,rimuovi,rimuovi
+m12_06_Richiama.wav,m12,1,richiama,richiama.
+m12_06_Apri_rubrica_1.wav,m12,1,apri rubrica 1,apri rubrica
+m12_06_Chiama_emergenza.wav,m12,1,chiama emergenza,chiamata dimetriza
+m12_06_Preferiti.wav,m12,1,preferiti,preste vete
+m12_06_Cella.wav,m12,1,cella,cella.
+m12_06_Nave.wav,m12,1,nave,nave
+m12_06_Mali.wav,m12,1,mali,mali.
+m12_06_Cinque.wav,m12,1,cinque,5
+m12_06_Apri_rubrica_2.wav,m12,1,apri rubrica 2,apri rubrica 3
+m12_06_Muovi.wav,m12,1,muovi,muovi
+m12_06_Vai_nel_registro_chiamate.wav,m12,1,vai nel registro chiamate,vaj na liste chvete.
+m12_06_Due.wav,m12,1,due,due
+m12_06_Salva.wav,m12,1,salva,cele bra
+m12_06_Scorri_verso_il_basso.wav,m12,1,scorri verso il basso,vse lepo v basu
+m12_06_Chiama_ultimo_numero.wav,m12,1,chiama ultimo numero,chiama ultimo numero 1
+m12_06_Vivavoce.wav,m12,1,vivavoce,vivavoce
+m12_06_Chiudi_applicazione.wav,m12,1,chiudi applicazione,apri castorinovima.
+m12_06_Si.wav,m12,1,si,si
+m12_06_Top.wav,m12,1,top,top
+m12_06_Vai_nella_rubrica.wav,m12,1,vai nella rubrica,vai nella rubrica
+m12_06_Sezione.wav,m12,1,sezione,se zume
+m12_06_Sotto.wav,m12,1,sotto,sottofono
+m12_06_Seleziona.wav,m12,1,seleziona,seleziona
+m12_06_Muto.wav,m12,1,muto,muto.
+m12_06_Chiudi_rubrica.wav,m12,1,chiudi rubrica,chiudi rubrica
+m12_06_Otto.wav,m12,1,otto,opta
+m12_06_Cancella.wav,m12,1,cancella,cancella
+m12_06_Tre.wav,m12,1,tre,treze
+m12_06_Fai_una_telefonata.wav,m12,1,fai una telefonata,fai una telefonata
+m12_06_Indietro.wav,m12,1,indietro,data
+m12_06_Vai_nei_preferiti.wav,m12,1,vai nei preferiti,vai nei preferiti
+m12_06_Termina_chiamata.wav,m12,1,termina chiamata,termina chvistovce
+m12_06_Sali.wav,m12,1,sali,sali
+m12_06_Chiamata.wav,m12,1,chiamata,chiamata.
+m12_06_Apri_rubrica_3.wav,m12,1,apri rubrica 3,apri rubrica
+m12_06_Sopra.wav,m12,1,sopra,sopra
+m12_06_Zero.wav,m12,1,zero,zero
+m12_06_Sette.wav,m12,1,sette,sette
+m12_06_Tastiera.wav,m12,1,tastiera,tastiva
+m12_06_Raggiungi.wav,m12,1,raggiungi,raggiungi
+m12_06_Stop.wav,m12,1,stop,stop
+m12_06_Esci_da_rubrica.wav,m12,1,esci da rubrica,i si ta rubrica
+m12_06_Nuovo_contatto.wav,m12,1,nuovo contatto,nuovo contato
+m12_06_No.wav,m12,1,no,no
+m12_01_Aggiungi_ai_preferiti.wav,m12,1,aggiungi ai preferiti,a giudice ai preferite
+m12_01_Cancella.wav,m12,1,cancella,cancella
+m12_01_Scesi.wav,m12,1,scesi,scesi
+m12_01_Due.wav,m12,1,due,due
+m12_01_Scendi.wav,m12,1,scendi,scendi
+m12_01_Terminare.wav,m12,1,terminare,termina
+m12_01_Otto.wav,m12,1,otto,otto
+m12_01_Muto.wav,m12,1,muto,muto
+m12_01_Esci_da_rubrica.wav,m12,1,esci da rubrica,esci da rubriki
+m12_01_Tre.wav,m12,1,tre,treta 3. sezono 3. sezono 3. sezono 3. sezono 3. sezono 3. sezono 3. sezono 3. sezono 3. sezono 3. sezono 3. sezono 3. se
+m12_01_Vai_alla_tastiera.wav,m12,1,vai alla tastiera,vai alla tastiva
+m12_01_Chiama_ultimo_numero.wav,m12,1,chiama ultimo numero,chiama alupnue
+m12_01_Sezione.wav,m12,1,sezione,sezuno
+m12_01_Vivavoce.wav,m12,1,vivavoce,vivavoce
+m12_01_Mali.wav,m12,1,mali,mali
+m12_01_Vai_nel_registro_chiamate.wav,m12,1,vai nel registro chiamate,vai nel registro chiamate
+m12_01_Chiama_emergenza.wav,m12,1,chiama emergenza,chiama emergenza.
+m12_01_Top.wav,m12,1,top,topo
+m12_01_Cancella_contatto.wav,m12,1,cancella contatto,cancella contatto.
+m12_01_Stop.wav,m12,1,stop,stop
+m12_01_Zero.wav,m12,1,zero,zero
+m12_01_Chiama.wav,m12,1,chiama,chiama
+m12_01_Cella.wav,m12,1,cella,cella.
+m12_01_Cancella_tutto.wav,m12,1,cancella tutto,cancella tutto.
+m12_01_Tastiera.wav,m12,1,tastiera,tastiva
+m12_01_Chiudi.wav,m12,1,chiudi,किनुदि
+m12_01_Fai_una_telefonata.wav,m12,1,fai una telefonata,fai una telefonata
+m12_01_Chiamata.wav,m12,1,chiamata,chiamata.
+m12_01_Chiudi_applicazione.wav,m12,1,chiudi applicazione,chiudi naprika te una
+m12_01_Sali.wav,m12,1,sali,sali
+m12_01_Apri_rubrica_1.wav,m12,1,apri rubrica 1,apri rubrica 2
+m12_01_Deseleziona.wav,m12,1,deseleziona,desele pivanje
+m12_01_Preferiti.wav,m12,1,preferiti,preferiti
+m12_01_Indietro.wav,m12,1,indietro,indietro
+m12_01_Termina_chiamata.wav,m12,1,termina chiamata,termina chiamata
+m12_01_Cinque.wav,m12,1,cinque,cinque.
+m12_01_Uno.wav,m12,1,uno,uno
+m12_01_Si.wav,m12,1,si,si
+m12_01_Sotto.wav,m12,1,sotto,sotto
+m12_01_Apri_rubrica_2.wav,m12,1,apri rubrica 2,apri rubrica
+m12_01_Nove.wav,m12,1,nove,nove
+m12_01_Sei.wav,m12,1,sei,sei
+m12_01_Quattro.wav,m12,1,quattro,quattro
+m12_01_Chiudi_rubrica.wav,m12,1,chiudi rubrica,chiudi rubrica
+m12_01_Vai_nei_preferiti.wav,m12,1,vai nei preferiti,vai nei preferiti
+m12_01_Salva.wav,m12,1,salva,salva
+m12_01_Seleziona.wav,m12,1,seleziona,sietio
+m12_01_Vai_alla_pagina_principale.wav,m12,1,vai alla pagina principale,vai alla pagina principale
+m12_01_Muovi.wav,m12,1,muovi,muovi
+m12_01_Bue.wav,m12,1,bue,bue
+m12_01_Tra.wav,m12,1,tra,se
+m12_01_Rimuovi.wav,m12,1,rimuovi,rimuovi
+m12_01_Rubrica.wav,m12,1,rubrica,rubrica
+m12_01_Apri_rubrica_3.wav,m12,1,apri rubrica 3,apri rubrica
+m12_01_Richiama.wav,m12,1,richiama,richiama
+m12_01_Sette.wav,m12,1,sette,sette
+m12_01_Scorri_verso_il_basso.wav,m12,1,scorri verso il basso,scorri verso il basso
+m12_01_Vai_nella_rubrica.wav,m12,1,vai nella rubrica,vaj v rubrike.
+m12_01_Nave.wav,m12,1,nave,nave
+m12_01_Sopra.wav,m12,1,sopra,supra
+m12_01_No.wav,m12,1,no,no
+m12_01_Nuovo_contatto.wav,m12,1,nuovo contatto,nuovo contatto
+m12_01_Zelo.wav,m12,1,zelo,zelo
+m12_01_Apri.wav,m12,1,apri,apri
+m12_01_Disattiva_vivavoce.wav,m12,1,disattiva vivavoce,disattiva vivavoce
+m12_01_Raggiungi.wav,m12,1,raggiungi,računji
+m12_01_Scorri_verso_l_alto.wav,m12,1,scorri verso l alto,scorri verso lato
+m12_01_Attiva_vivavoce.wav,m12,1,attiva vivavoce,attiva vivavoce.
+m12_01_Aggiungi.wav,m12,1,aggiungi,raggiunj se
+m12_05_Scendi.wav,m12,1,scendi,scendi
+m12_05_Seleziona.wav,m12,1,seleziona,seleziona
+m12_05_Tastiera.wav,m12,1,tastiera,tastiera.
+m12_05_Mali.wav,m12,1,mali,mali
+m12_05_Termina_chiamata.wav,m12,1,termina chiamata,termina chiamata
+m12_05_Apri_rubrica_1.wav,m12,1,apri rubrica 1,apri rubrica 3
+m12_05_Scesi.wav,m12,1,scesi,scesi
+m12_05_Bue.wav,m12,1,bue,bue
+m12_05_Sezione.wav,m12,1,sezione,sejtun
+m12_05_Tra.wav,m12,1,tra,tra la...tra la...tra la...tra la...tra la...tra la...tra la...tra la...tra la...tra la...tra la...tra la...tra la...tra la...tra la...tra la...tra la...tra la...tra la...tra la...
+m12_05_Vai_alla_tastiera.wav,m12,1,vai alla tastiera,vajala tastira.
+m12_05_Indietro.wav,m12,1,indietro,indetel.
+m12_05_Muto.wav,m12,1,muto,muto
+m12_05_Chiamata.wav,m12,1,chiamata,chvistim alta.
+m12_05_Chiudi_applicazione.wav,m12,1,chiudi applicazione,chiudi contattu contattu contattu contattu contattu contattu contattu contattu contattu contattu contattu contattu contattu contattu contattu contattu contattu contattu contattu cont
+m12_05_Otto.wav,m12,1,otto,otto
+m12_05_Cancella_tutto.wav,m12,1,cancella tutto,cancella tutto
+m12_05_Cella.wav,m12,1,cella,cella.
+m12_05_Chiama_ultimo_numero.wav,m12,1,chiama ultimo numero,chvima otro numero 3
+m12_05_Cancella_contatto.wav,m12,1,cancella contatto,cancella contatto.
+m12_05_Chiudi.wav,m12,1,chiudi,chiudi
+m12_05_Sali.wav,m12,1,sali,sali
+m12_05_Cancella.wav,m12,1,cancella,cancella
+m12_05_Raggiungi.wav,m12,1,raggiungi,raggiungi
+m12_05_Chiama.wav,m12,1,chiama,chiama?
+m12_05_Uno.wav,m12,1,uno,uno uno uno uno uno uno uno uno uno uno uno uno uno uno uno uno uno uno uno uno uno uno uno uno uno uno uno uno uno uno uno uno uno uno uno uno uno uno uno uno uno uno uno uno uno uno uno uno uno uno uno uno uno uno uno uno uno uno uno uno
+m12_05_Stop.wav,m12,1,stop,stop
+m12_05_Scorri_verso_il_basso.wav,m12,1,scorri verso il basso,skoraj vese basa
+m12_05_Zero.wav,m12,1,zero,zero.
+m12_05_Disattiva_vivavoce.wav,m12,1,disattiva vivavoce,disattiva vivavoce
+m12_05_Esci_da_rubrica.wav,m12,1,esci da rubrica,risti da rubrika
+m12_05_Vivavoce.wav,m12,1,vivavoce,vivavoce
+m12_05_Sei.wav,m12,1,sei,sei
+m12_05_Richiama.wav,m12,1,richiama,richiama
+m12_05_Cinque.wav,m12,1,cinque,5
+m12_05_Nuovo_contatto.wav,m12,1,nuovo contatto,novo contatto
+m12_05_Quattro.wav,m12,1,quattro,quattro.
+m12_05_Si.wav,m12,1,si,si
+m12_05_Sotto.wav,m12,1,sotto,sotra
+m12_05_Apri_rubrica_3.wav,m12,1,apri rubrica 3,apri rubrica 3
+m12_05_Muovi.wav,m12,1,muovi,muovi
+m12_05_Aggiungi.wav,m12,1,aggiungi,aggiungi.
+m12_05_Vai_nei_preferiti.wav,m12,1,vai nei preferiti,vaj nei preferiti.
+m12_05_Attiva_vivavoce.wav,m12,1,attiva vivavoce,attiva vivavoce
+m12_05_Nove.wav,m12,1,nove,nove
+m12_05_Chiama_emergenza.wav,m12,1,chiama emergenza,chvistite na emergenca?
+m12_05_Salva.wav,m12,1,salva,salva
+m12_05_Aggiungi_ai_preferiti.wav,m12,1,aggiungi ai preferiti,a giudi apetare.
+m12_05_Scorri_verso_l_alto.wav,m12,1,scorri verso l alto,scoate la alto
+m12_05_Terminare.wav,m12,1,terminare,terminare
+m12_05_Tre.wav,m12,1,tre,tre'
+m12_05_Zelo.wav,m12,1,zelo,zelo
+m12_05_No.wav,m12,1,no,no
+m12_05_Sette.wav,m12,1,sette,sette
+m12_05_Rimuovi.wav,m12,1,rimuovi,rimuovi
+m12_05_Chiudi_rubrica.wav,m12,1,chiudi rubrica,chiudi rubrica.
+m12_05_Sopra.wav,m12,1,sopra,sopra
+m12_05_Apri.wav,m12,1,apri,apri prekojete prekojete prekojete prekojete prekojete prekojete prekojete prekojete prekojete prekojete prekojete prekojete prekojete prekojete preko
+m12_05_Rubrica.wav,m12,1,rubrica,rubrica
+m12_05_Vai_alla_pagina_principale.wav,m12,1,vai alla pagina principale,vajala pa ni v tem palce.
+m12_05_Vai_nella_rubrica.wav,m12,1,vai nella rubrica,vaj nella rubrica
+m12_05_Preferiti.wav,m12,1,preferiti,presovolite
+m12_05_Top.wav,m12,1,top,stop
+m12_05_Deseleziona.wav,m12,1,deseleziona,se seze una
+m12_05_Due.wav,m12,1,due,due
+m12_05_Fai_una_telefonata.wav,m12,1,fai una telefonata,fai una telefonata.
+m12_05_Nave.wav,m12,1,nave,nave
+m12_05_Apri_rubrica_2.wav,m12,1,apri rubrica 2,apri rubrica 3
+m12_05_Vai_nel_registro_chiamate.wav,m12,1,vai nel registro chiamate,vai neletvo še temate.
+m12_02_Chiudi_rubrica.wav,m12,1,chiudi rubrica,chiudi rubrica
+m12_02_Scesi.wav,m12,1,scesi,si
+m12_02_Nave.wav,m12,1,nave,nove?nove?nove?nove?nove?nove?nove?nove?nove?nove?nove?nove?nove?nove?nove?nove?nove?nove?nove?nove?
+m12_02_Preferiti.wav,m12,1,preferiti,preferiti
+m12_02_Vai_alla_tastiera.wav,m12,1,vai alla tastiera,vai al tativa
+m12_02_Cancella.wav,m12,1,cancella,cancella.
+m12_02_Sezione.wav,m12,1,sezione,sezone
+m12_02_Vai_nel_registro_chiamate.wav,m12,1,vai nel registro chiamate,vai nel'esci chiamate.
+m12_02_No.wav,m12,1,no,no
+m12_02_Vivavoce.wav,m12,1,vivavoce,vivavoce
+m12_02_Vai_alla_pagina_principale.wav,m12,1,vai alla pagina principale,vaj na pagina principala.
+m12_02_Uno.wav,m12,1,uno,uno uno uno uno uno uno uno uno uno uno uno uno uno uno uno uno uno uno uno uno uno uno uno uno uno uno uno uno uno uno uno uno uno uno uno uno uno uno uno uno uno uno uno uno uno uno uno uno uno uno uno uno uno uno uno uno uno uno uno uno
+m12_02_Sei.wav,m12,1,sei,sei
+m12_02_Apri_rubrica_2.wav,m12,1,apri rubrica 2,aprubika
+m12_02_Zelo.wav,m12,1,zelo,zelo
+m12_02_Scorri_verso_l_alto.wav,m12,1,scorri verso l alto,skorobjate v alto.
+m12_02_Cinque.wav,m12,1,cinque,cinque.
+m12_02_Apri.wav,m12,1,apri,apri
+m12_02_Nuovo_contatto.wav,m12,1,nuovo contatto,nuovo contatto.
+m12_02_Nove.wav,m12,1,nove,nove
+m12_02_Disattiva_vivavoce.wav,m12,1,disattiva vivavoce,disattiva vivavoce
+m12_02_Chiama_emergenza.wav,m12,1,chiama emergenza,chvata de merce.
+m12_02_Si.wav,m12,1,si,si
+m12_02_Tastiera.wav,m12,1,tastiera,tastiva.
+m12_02_Cella.wav,m12,1,cella,cella.
+m12_02_Chiamata.wav,m12,1,chiamata,chemata.
+m12_02_Esci_da_rubrica.wav,m12,1,esci da rubrica,esci da rubrica
+m12_02_Scorri_verso_il_basso.wav,m12,1,scorri verso il basso,scorri para o baixo
+m12_02_Terminare.wav,m12,1,terminare,terminare
+m12_02_Cancella_contatto.wav,m12,1,cancella contatto,cancella contatto contatto contatto contatto contatto contatto contatto contatto contatto contatto contatto contatto contatto contatto contatto contatto contatto contatto contatto contatto contatto contatto contatto contatto contatto contatto contatto contatto cont
+m12_02_Bue.wav,m12,1,bue,bue
+m12_02_Apri_rubrica_3.wav,m12,1,apri rubrica 3,apri rubrica
+m12_02_Tra.wav,m12,1,tra,tra
+m12_02_Indietro.wav,m12,1,indietro,indietro
+m12_02_Deseleziona.wav,m12,1,deseleziona,desele se učinite
+m12_02_Sotto.wav,m12,1,sotto,sotto
+m12_02_Vai_nei_preferiti.wav,m12,1,vai nei preferiti,vai nei preferiti
+m12_02_Raggiungi.wav,m12,1,raggiungi,računji
+m12_02_Tre.wav,m12,1,tre,trest
+m12_02_Top.wav,m12,1,top,top
+m12_02_Stop.wav,m12,1,stop,topo
+m12_02_Zero.wav,m12,1,zero,zero
+m12_02_Sali.wav,m12,1,sali,sali
+m12_02_Due.wav,m12,1,due,due
+m12_02_Quattro.wav,m12,1,quattro,quattro quattro quattro quattro quattro quattro quattro quattro quattro quattro quattro quattro quattro quattro quattro quattro quattro quattro quattro quattro
+m12_02_Salva.wav,m12,1,salva,salva
+m12_02_Attiva_vivavoce.wav,m12,1,attiva vivavoce,attiva vivavoce
+m12_02_Muovi.wav,m12,1,muovi,muovi
+m12_02_Scendi.wav,m12,1,scendi,scendi
+m12_02_Chiudi_applicazione.wav,m12,1,chiudi applicazione,किव्दी प्लःटिकत्ते उन्हु
+m12_02_Aggiungi_ai_preferiti.wav,m12,1,aggiungi ai preferiti,aggiungi ai preferiti
+m12_02_Fai_una_telefonata.wav,m12,1,fai una telefonata,fai una telefonata
+m12_02_Muto.wav,m12,1,muto,muto
+m12_02_Otto.wav,m12,1,otto,otto
+m12_02_Seleziona.wav,m12,1,seleziona,seve kastruna
+m12_02_Sopra.wav,m12,1,sopra,supra
+m12_02_Apri_rubrica_1.wav,m12,1,apri rubrica 1,apri rubrica
+m12_02_Sette.wav,m12,1,sette,sette
+m12_02_Chiama_ultimo_numero.wav,m12,1,chiama ultimo numero,chiama ultimo numero 1
+m12_02_Richiama.wav,m12,1,richiama,richiama.
+m12_02_Chiudi.wav,m12,1,chiudi,chiudi?
+m12_02_Chiama.wav,m12,1,chiama,chiama chiamata chiamata chiamata chiamata chiamata chiamata chiamata chiamata chiamata chiamata chiamata chiamata chiamata chiamata chiamata chiamata chiamata chiamata chiamata ch
+m12_02_Aggiungi.wav,m12,1,aggiungi,raggiungi
+m12_02_Cancella_tutto.wav,m12,1,cancella tutto,cancella tutto
+m12_02_Vai_nella_rubrica.wav,m12,1,vai nella rubrica,vajnila rubrica
+m12_02_Rubrica.wav,m12,1,rubrica,rubrica
+m12_02_Rimuovi.wav,m12,1,rimuovi,rimuovi
+m12_02_Mali.wav,m12,1,mali,mali
+m12_02_Termina_chiamata.wav,m12,1,termina chiamata,termina chiamata.
+m12_03_Disattiva_vivavoce.wav,m12,1,disattiva vivavoce,disettiva vivavoce.
+m12_03_Sopra.wav,m12,1,sopra,sopra
+m12_03_Nove.wav,m12,1,nove,nove
+m12_03_Sette.wav,m12,1,sette,sette
+m12_03_Preferiti.wav,m12,1,preferiti,preferite
+m12_03_Nuovo_contatto.wav,m12,1,nuovo contatto,nuovo contatto
+m12_03_Vivavoce.wav,m12,1,vivavoce,vivavoce
+m12_03_Si.wav,m12,1,si,si
+m12_03_Cancella_contatto.wav,m12,1,cancella contatto,cancella contatto.
+m12_03_Cancella.wav,m12,1,cancella,cancella.
+m12_03_Apri_rubrica_3.wav,m12,1,apri rubrica 3,apri rubrica
+m12_03_Termina_chiamata.wav,m12,1,termina chiamata,termina chiamata.
+m12_03_Esci_da_rubrica.wav,m12,1,esci da rubrica,irica
+m12_03_Nave.wav,m12,1,nave,nave
+m12_03_Chiudi_applicazione.wav,m12,1,chiudi applicazione,cesti lukazino
+m12_03_Vai_alla_tastiera.wav,m12,1,vai alla tastiera,vajel na tesele
+m12_03_No.wav,m12,1,no,no
+m12_03_Top.wav,m12,1,top,topa
+m12_03_Indietro.wav,m12,1,indietro,indieta
+m12_03_Scorri_verso_il_basso.wav,m12,1,scorri verso il basso,scorri verso il basso
+m12_03_Tre.wav,m12,1,tre,trello.
+m12_03_Sotto.wav,m12,1,sotto,sopra
+m12_03_Chiudi_rubrica.wav,m12,1,chiudi rubrica,chiudi rubrica
+m12_03_Sezione.wav,m12,1,sezione,se tune
+m12_03_Chiamata.wav,m12,1,chiamata,chiamata
+m12_03_Apri_rubrica_2.wav,m12,1,apri rubrica 2,apel rubrica.
+m12_03_Muovi.wav,m12,1,muovi,muovi
+m12_03_Tastiera.wav,m12,1,tastiera,tastir
+m12_03_Terminare.wav,m12,1,terminare,tem ne vem.
+m12_03_Apri.wav,m12,1,apri,apri
+m12_03_Due.wav,m12,1,due,due
+m12_03_Zelo.wav,m12,1,zelo,zelo
+m12_03_Salva.wav,m12,1,salva,salva
+m12_03_Cinque.wav,m12,1,cinque,cinque.
+m12_03_Chiama_emergenza.wav,m12,1,chiama emergenza,chiamata timbrata 3
+m12_03_Chiama_ultimo_numero.wav,m12,1,chiama ultimo numero,chiamata ultimo numero 1
+m12_03_Muto.wav,m12,1,muto,muto
+m12_03_Fai_una_telefonata.wav,m12,1,fai una telefonata,fai una telefonata
+m12_03_Cella.wav,m12,1,cella,cella.
+m12_03_Otto.wav,m12,1,otto,otto
+m12_03_Aggiungi_ai_preferiti.wav,m12,1,aggiungi ai preferiti,aggiungi айте на веќе
+m12_03_Apri_rubrica_1.wav,m12,1,apri rubrica 1,apri rubrica 2
+m12_03_Raggiungi.wav,m12,1,raggiungi,raggiungi
+m12_03_Attiva_vivavoce.wav,m12,1,attiva vivavoce,attiva vivavoce.
+m12_03_Chiudi.wav,m12,1,chiudi,chiudi
+m12_03_Chiama.wav,m12,1,chiama,chiama
+m12_03_Cancella_tutto.wav,m12,1,cancella tutto,cancella tutto.
+m12_03_Mali.wav,m12,1,mali,mali.
+m12_03_Rimuovi.wav,m12,1,rimuovi,rimuovi
+m12_03_Rubrica.wav,m12,1,rubrica,rubrica
+m12_03_Tra.wav,m12,1,tra,trage
+m12_03_Bue.wav,m12,1,bue,bue.
+m12_03_Vai_nella_rubrica.wav,m12,1,vai nella rubrica,vai nella rubrica
+m12_03_Vai_nei_preferiti.wav,m12,1,vai nei preferiti,vai nei preferiti
+m12_03_Vai_nel_registro_chiamate.wav,m12,1,vai nel registro chiamate,vaj nel registro chiamate.
+m12_03_Scorri_verso_l_alto.wav,m12,1,scorri verso l alto,scorri verso lato
+m12_03_Seleziona.wav,m12,1,seleziona,sebiti una
+m12_03_Aggiungi.wav,m12,1,aggiungi,aggiungi.
+m12_03_Zero.wav,m12,1,zero,zero
+m12_03_Vai_alla_pagina_principale.wav,m12,1,vai alla pagina principale,vaj na paginačke.
+m12_03_Stop.wav,m12,1,stop,stop
+m12_03_Scesi.wav,m12,1,scesi,si
+m12_03_Richiama.wav,m12,1,richiama,richiama
+m12_03_Deseleziona.wav,m12,1,deseleziona,desele se uscete
+m12_03_Quattro.wav,m12,1,quattro,quattro
+m12_03_Sali.wav,m12,1,sali,sali
+m12_03_Sei.wav,m12,1,sei,sei
+m12_03_Scendi.wav,m12,1,scendi,scendi
+m12_03_Uno.wav,m12,1,uno,uno uno uno uno uno uno uno uno uno uno uno uno uno uno uno uno uno uno uno uno uno uno uno uno uno uno uno uno uno uno uno uno uno uno uno uno uno uno uno uno uno uno uno uno uno uno uno uno uno uno uno uno uno uno uno uno uno uno uno uno
+m12_04_Tre.wav,m12,1,tre,trene
+m12_04_Nuovo_contatto.wav,m12,1,nuovo contatto,nuul contatto
+m12_04_Zero.wav,m12,1,zero,zero
+m12_04_Rimuovi.wav,m12,1,rimuovi,rimuovi.
+m12_04_Rubrica.wav,m12,1,rubrica,rubrica
+m12_04_Cella.wav,m12,1,cella,cella
+m12_04_Top.wav,m12,1,top,topa
+m12_04_Stop.wav,m12,1,stop,stop
+m12_04_Aggiungi_ai_preferiti.wav,m12,1,aggiungi ai preferiti,aggiungi ai preferiti.
+m12_04_Aggiungi.wav,m12,1,aggiungi,aggiungi.
+m12_04_Preferiti.wav,m12,1,preferiti,preferite
+m12_04_Cancella_contatto.wav,m12,1,cancella contatto,cancella contatto
+m12_04_Sali.wav,m12,1,sali,sali
+m12_04_Attiva_vivavoce.wav,m12,1,attiva vivavoce,attiva vivavoce
+m12_04_Due.wav,m12,1,due,due
+m12_04_Apri_rubrica_3.wav,m12,1,apri rubrica 3,aprubrica
+m12_04_Chiama_ultimo_numero.wav,m12,1,chiama ultimo numero,chiama ultimo numero 1
+m12_04_Richiama.wav,m12,1,richiama,richiama
+m12_04_Scendi.wav,m12,1,scendi,scendi
+m12_04_Chiudi_applicazione.wav,m12,1,chiudi applicazione,chiudi aplikacijna
+m12_04_Scesi.wav,m12,1,scesi,si
+m12_04_Chiudi_rubrica.wav,m12,1,chiudi rubrica,chiudi rubrica
+m12_04_Quattro.wav,m12,1,quattro,quattro
+m12_04_Muto.wav,m12,1,muto,muto
+m12_04_Vai_alla_pagina_principale.wav,m12,1,vai alla pagina principale,vai alla pagina principale
+m12_04_Otto.wav,m12,1,otto,otto
+m12_04_Terminare.wav,m12,1,terminare,termina
+m12_04_Fai_una_telefonata.wav,m12,1,fai una telefonata,fai una telefonata
+m12_04_Vai_alla_tastiera.wav,m12,1,vai alla tastiera,vai alla tastina
+m12_04_Chiudi.wav,m12,1,chiudi,chiudi
+m12_04_Chiama.wav,m12,1,chiama,chiama.
+m12_04_Mali.wav,m12,1,mali,mali
+m12_04_Apri_rubrica_2.wav,m12,1,apri rubrica 2,apri rubrica
+m12_04_Deseleziona.wav,m12,1,deseleziona,se se sezone
+m12_04_Termina_chiamata.wav,m12,1,termina chiamata,termina chiamata
+m12_04_Nave.wav,m12,1,nave,nove
+m12_04_Si.wav,m12,1,si,si
+m12_04_Chiamata.wav,m12,1,chiamata,chiamata
+m12_04_Sette.wav,m12,1,sette,sette
+m12_04_Sopra.wav,m12,1,sopra,sopra
+m12_04_Apri_rubrica_1.wav,m12,1,apri rubrica 1,apri rubrica
+m12_04_Indietro.wav,m12,1,indietro,indietro
+m12_04_Uno.wav,m12,1,uno,uno
+m12_04_Raggiungi.wav,m12,1,raggiungi,raggiungi
+m12_04_Cancella_tutto.wav,m12,1,cancella tutto,cancella tutto
+m12_04_Vai_nella_rubrica.wav,m12,1,vai nella rubrica,vai nella rubrica
+m12_04_Apri.wav,m12,1,apri,apri
+m12_04_Scorri_verso_l_alto.wav,m12,1,scorri verso l alto,scorri verso lato
+m12_04_Tastiera.wav,m12,1,tastiera,tastina
+m12_04_Zelo.wav,m12,1,zelo,zero
+m12_04_Cinque.wav,m12,1,cinque,cinque.
+m12_04_Sei.wav,m12,1,sei,sei
+m12_04_Scorri_verso_il_basso.wav,m12,1,scorri verso il basso,skorri v vas in v basu.
+m12_04_Sotto.wav,m12,1,sotto,sotto
+m12_04_Vai_nei_preferiti.wav,m12,1,vai nei preferiti,vai nei preferiti
+m12_04_Nove.wav,m12,1,nove,nove
+m12_04_Vivavoce.wav,m12,1,vivavoce,vivavoce
+m12_04_Chiama_emergenza.wav,m12,1,chiama emergenza,chi amata e emergenza.
+m12_04_Disattiva_vivavoce.wav,m12,1,disattiva vivavoce,disattiva vivavoce
+m12_04_No.wav,m12,1,no,no
+m12_04_Bue.wav,m12,1,bue,bue.
+m12_04_Tra.wav,m12,1,tra,trada
+m12_04_Cancella.wav,m12,1,cancella,cancella
+m12_04_Salva.wav,m12,1,salva,salva
+m12_04_Muovi.wav,m12,1,muovi,muovi
+m12_04_Sezione.wav,m12,1,sezione,se se una
+m12_04_Esci_da_rubrica.wav,m12,1,esci da rubrica,esci da rubriča.
+m12_04_Vai_nel_registro_chiamate.wav,m12,1,vai nel registro chiamate,vai nel registro chvete.
+m12_04_Seleziona.wav,m12,1,seleziona,se tune
